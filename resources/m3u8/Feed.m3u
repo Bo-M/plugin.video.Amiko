@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,LAT-002 - ASTRA_3B_23_5E
+rtsp://sat.ip/?alisatid=10&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - Hot_Bird_13E
+rtsp://sat.ip/?alisatid=6&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - Eutelsat_16A_16E
+rtsp://sat.ip/?alisatid=7&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - Eutelsat_7E
+rtsp://sat.ip/?alisatid=4&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - ASTRA_19_2E
+rtsp://sat.ip/?alisatid=8&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - Astra_4A_4_8E
+rtsp://sat.ip/?alisatid=52&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - Eurobird_9E
+rtsp://sat.ip/?alisatid=51&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048
+#EXTINF:0,LAT-002 - Eutelsat W2A 10E
+rtsp://sat.ip/?alisatid=5&sr=7200&mtype=64qam&pol=h&freq=11068&pids=0,17,18,512,4112,2048

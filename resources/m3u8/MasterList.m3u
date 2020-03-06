@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,1 - Satellite - ASTRA 19.2E
+http://localhost:6200/m3u?name=ASTRA_19_2E.m3u
+#EXTINF:0,2 - Satellite - ASTRA 23.5E
+http://localhost:6200/m3u?name=ASTRA_3B_23_5E.m3u
+#EXTINF:0,3 - Satellite - Eutelsat 16A 16E
+http://localhost:6200/m3u?name=Eutelsat_16A_16E.m3u
+#EXTINF:0,4 - Satellite - Hot Bird 13E
+http://localhost:6200/m3u?name=Hot_Bird_13E.m3u
+#EXTINF:0,5 - Satellite - Astra 4A 4.8°E
+http://localhost:6200/m3u?name=Astra_4A_4_8E.m3u
+#EXTINF:0,6 - Satellite - Eutalsat 7E
+http://localhost:6200/m3u?name=Eutelsat_7E.m3u
+#EXTINF:0,7 - Satellite - Eurobird 9E
+http://localhost:6200/m3u?name=Eurobird_9E.m3u
+#EXTINF:0,8 - Satellite - Last FEED
+http://localhost:6200/m3u?name=Feed.m3u
+#EXTINF:0,- - DVB - T2
+http://localhost:6200/m3u?name=dvb_T2.m3u

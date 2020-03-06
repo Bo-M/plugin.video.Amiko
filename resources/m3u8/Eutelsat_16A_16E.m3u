@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:0,1. HRT International
+rtsp://sat.ip/?alisatid=7&freq=10720&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,211,212,210
+#EXTINF:0,2. TV Slovenija 1
+rtsp://sat.ip/?alisatid=7&freq=10720&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,311,312,310
+#EXTINF:0,3. TV Slovenija 2
+rtsp://sat.ip/?alisatid=7&freq=10720&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,321,322,320
+#EXTINF:0,4. TV Slovenija 3
+rtsp://sat.ip/?alisatid=7&freq=10720&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,331,332,330
+#EXTINF:0,5. RTK 1 Sat (Kosovo)
+rtsp://sat.ip/?alisatid=7&freq=10762&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=35&pids=0,17,18,1001,1002,1000
+#EXTINF:0,6. Top News
+rtsp://sat.ip/?alisatid=7&freq=10762&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=35&pids=0,17,18,1021,1022,1020
+#EXTINF:0,15. BCTV Europe
+rtsp://sat.ip/?alisatid=7&freq=10762&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=35&pids=0,17,18,1301,1302,1300
+#EXTINF:0,24. Euronews Albania
+rtsp://sat.ip/?alisatid=7&freq=10803&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29950&fec=23&pids=0,17,18,2001,2002,2000
+#EXTINF:0,51. Ndihma e Klientit
+rtsp://sat.ip/?alisatid=7&freq=10845&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=35&pids=0,17,18,320,321,1028
+#EXTINF:0,79. Wness TV
+rtsp://sat.ip/?alisatid=7&freq=10928&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=35&pids=0,17,18,1201,1202,1200
+#EXTINF:0,92. Al Arabiya
+rtsp://sat.ip/?alisatid=7&freq=10957&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=3333&fec=56&pids=0,17,18,514,4112,256
+#EXTINF:0,108. Cinestar Premiere 2 HD
+rtsp://sat.ip/?alisatid=7&freq=10972&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=35&pids=0,17,18,266,3661,166
+#EXTINF:0,123. CT 24 HD
+rtsp://sat.ip/?alisatid=7&freq=11055&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=2894&fec=34&pids=0,17,18,1401,1402,1400
+#EXTINF:0,182. Pink Folk
+rtsp://sat.ip/?alisatid=7&freq=11151&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=14375&fec=35&pids=0,17,18,564,664,264
+#EXTINF:0,253. BN Music HD
+rtsp://sat.ip/?alisatid=7&freq=11262&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,109,111,108
+#EXTINF:0,254. RTRS
+rtsp://sat.ip/?alisatid=7&freq=11262&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,141,143,140
+#EXTINF:0,256. RTRS Plus
+rtsp://sat.ip/?alisatid=7&freq=11262&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,301,303,300
+#EXTINF:0,282. Al Jazeera Balkans HD
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,49,51,48
+#EXTINF:0,285. YU Planet
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,129,131,128
+#EXTINF:0,286. OBN
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,145,147,144
+#EXTINF:0,287. Aurora TV
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,161,163,160
+#EXTINF:0,288. Pro TV International
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,177,179,176
+#EXTINF:0,290. Fashion TV
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,273,275,272
+#EXTINF:0,291. TV Duga Plus
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,289,291,288
+#EXTINF:0,293. K3 (Bosnia)
+rtsp://sat.ip/?alisatid=7&freq=11304&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,369,371,368
+#EXTINF:0,306. OTV Valentino
+rtsp://sat.ip/?alisatid=7&freq=11345&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,102,103,101
+#EXTINF:0,307. Svet Plus
+rtsp://sat.ip/?alisatid=7&freq=11345&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,402,403,401
+#EXTINF:0,308. KCN Music 2
+rtsp://sat.ip/?alisatid=7&freq=11345&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,702,703,701
+#EXTINF:0,309. TV Kopernikus
+rtsp://sat.ip/?alisatid=7&freq=11345&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,1702,1703,1701
+#EXTINF:0,310. HNL SD  Occasional
+rtsp://sat.ip/?alisatid=7&freq=11345&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,1802,1803,1801
+#EXTINF:0,311. RTCG Sat
+rtsp://sat.ip/?alisatid=7&freq=11345&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,2502,2503,2501
+#EXTINF:0,352. RTSH 1 HD
+rtsp://sat.ip/?alisatid=7&freq=11400&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=13846&fec=34&pids=0,17,18,3388,3312,531
+#EXTINF:0,353. RTK 1 Sat (Kosovo)
+rtsp://sat.ip/?alisatid=7&freq=11400&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=13846&fec=34&pids=0,17,18,1111,1121,538
+#EXTINF:0,366. Vizion Plus HD
+rtsp://sat.ip/?alisatid=7&freq=11427&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,501,502,515
+#EXTINF:0,368. Tring Sport News
+rtsp://sat.ip/?alisatid=7&freq=11427&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,2518,2519,3551
+#EXTINF:0,446. TV Romania International
+rtsp://sat.ip/?alisatid=7&freq=11512&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,600,610,7006
+#EXTINF:0,506. Z1
+rtsp://sat.ip/?alisatid=7&freq=11595&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,2834,2610,562
+#EXTINF:0,513. RTCG Sat
+rtsp://sat.ip/?alisatid=7&freq=11595&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,2896,2640,592
+#EXTINF:0,519. Fashion TV
+rtsp://sat.ip/?alisatid=7&freq=11595&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,3501,3502,3500
+#EXTINF:0,520. HRT 1 HD
+rtsp://sat.ip/?alisatid=7&freq=11636&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,111,112,110
+#EXTINF:0,523. HRT 4 HD
+rtsp://sat.ip/?alisatid=7&freq=11636&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,141,142,140
+#EXTINF:0,524. SLO1 HD
+rtsp://sat.ip/?alisatid=7&freq=11636&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,411,412,410
+#EXTINF:0,525. SLO2 HD
+rtsp://sat.ip/?alisatid=7&freq=11636&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,421,422,420
+#EXTINF:0,526. SLO3 HD
+rtsp://sat.ip/?alisatid=7&freq=11636&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,431,432,430
+#EXTINF:0,542. In Life
+rtsp://sat.ip/?alisatid=7&freq=11637&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=56&pids=0,17,18,3301,3302,3300
+#EXTINF:0,548. BISS: EFB 1
+rtsp://sat.ip/?alisatid=7&freq=11637&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=56&pids=0,17,18,4901,4902,4900
+#EXTINF:0,549. EFB 2
+rtsp://sat.ip/?alisatid=7&freq=11637&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=56&pids=0,17,18,5101,5102,5100
+#EXTINF:0,550. EFB 3
+rtsp://sat.ip/?alisatid=7&freq=11637&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=56&pids=0,17,18,5301,5302,5300
+#EXTINF:0,555. Nova 24 TV
+rtsp://sat.ip/?alisatid=7&freq=11678&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,2822,2566,33
+#EXTINF:0,563. Posavina TV
+rtsp://sat.ip/?alisatid=7&freq=11678&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,2817,2561,512
+#EXTINF:0,567. Laudato TV
+rtsp://sat.ip/?alisatid=7&freq=11678&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,2840,2584,533
+#EXTINF:0,583. Zico TV
+rtsp://sat.ip/?alisatid=7&freq=12543&pol=v&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=19970&fec=34&pids=0,17,18,930,931,932
+#EXTINF:0,584. RTV 21 M
+rtsp://sat.ip/?alisatid=7&freq=12543&pol=v&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=19970&fec=34&pids=0,17,18,513,514,516
+#EXTINF:0,585. BISS: Kanal D Romania
+rtsp://sat.ip/?alisatid=7&freq=12564&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=3617&fec=34&pids=0,17,18,100,110,90
+#EXTINF:0,586. BISS: SIC International
+rtsp://sat.ip/?alisatid=7&freq=12569&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=3703&fec=78&pids=0,17,18,308,256,32
+#EXTINF:0,587. DM Sat
+rtsp://sat.ip/?alisatid=7&freq=12593&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=2500&fec=23&pids=0,17,18,512,768,256
+#EXTINF:0,591. RTSH 1 HD
+rtsp://sat.ip/?alisatid=7&freq=12639&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=10833&fec=35&pids=0,17,18,111,112,110
+#EXTINF:0,592. RTSH 3
+rtsp://sat.ip/?alisatid=7&freq=12639&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=10833&fec=35&pids=0,17,18,121,122,120
+#EXTINF:0,593. RTSH Plus
+rtsp://sat.ip/?alisatid=7&freq=12639&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=10833&fec=35&pids=0,17,18,131,132,130
+#EXTINF:0,594. RTSH 24
+rtsp://sat.ip/?alisatid=7&freq=12639&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=10833&fec=35&pids=0,17,18,141,142,140
+#EXTINF:0,595. RTSH Shqip
+rtsp://sat.ip/?alisatid=7&freq=12639&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=10833&fec=35&pids=0,17,18,151,152,150
+#EXTINF:0,596. RTSH Muzike
+rtsp://sat.ip/?alisatid=7&freq=12639&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=10833&fec=35&pids=0,17,18,161,162,160
+#EXTINF:0,607. Digi 24
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,1100,1110,7014
+#EXTINF:0,608. TV Neptun
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,1200,1210,7011
+#EXTINF:0,609. TVR Cluj
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,2100,2110,7021
+#EXTINF:0,610. TVR Craiova
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,2200,2210,7022
+#EXTINF:0,611. TVR Iasi
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,2300,2310,7023
+#EXTINF:0,612. TVR Timisoara
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,2400,2410,7024
+#EXTINF:0,613. TVR Tirgu Mures
+rtsp://sat.ip/?alisatid=7&freq=12643&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,2500,2510,7025
+#EXTINF:0,617. SNAI Live
+rtsp://sat.ip/?alisatid=7&freq=12660&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=2222&fec=56&pids=0,17,18,512,4112,256
+#EXTINF:0,619. BISS: SNAI Quad Race
+rtsp://sat.ip/?alisatid=7&freq=12694&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=2220&fec=56&pids=0,17,18,512,4112,256
+#EXTINF:0,620. SNAI Virtuali 2
+rtsp://sat.ip/?alisatid=7&freq=12699&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=9880&fec=23&pids=0,17,18,510,500502,5005
+#EXTINF:0,621. SNAI Virtuali 3
+rtsp://sat.ip/?alisatid=7&freq=12699&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=9880&fec=23&pids=0,17,18,810,800,5055
+#EXTINF:0,622. SNAI Virtuali 1
+rtsp://sat.ip/?alisatid=7&freq=12699&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=9880&fec=23&pids=0,17,18,910,901,5057
+#EXTINF:0,623. BISS: National TV
+rtsp://sat.ip/?alisatid=7&freq=12717&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=7500&fec=34&pids=0,17,18,257,258,256
+#EXTINF:0,624. BISS: N 24 Plus
+rtsp://sat.ip/?alisatid=7&freq=12717&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=7500&fec=34&pids=0,17,18,513,514,512
+#EXTINF:0,625. Favorit TV
+rtsp://sat.ip/?alisatid=7&freq=12717&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=7500&fec=34&pids=0,17,18,772,773,768
+#EXTINF:0,626. Alfa Omega TV
+rtsp://sat.ip/?alisatid=7&freq=12717&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=7500&fec=34&pids=0,17,18,802,803,800
+#EXTINF:0,627. Realitatea Plus
+rtsp://sat.ip/?alisatid=7&freq=12738&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=2255&fec=34&pids=0,17,18,901,902,900

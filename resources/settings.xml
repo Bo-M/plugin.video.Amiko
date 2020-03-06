@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="IP" type="text" label="Unesite IP adresu od sat>IP uredjaja: " default="" visible="true"/>
+	<setting id="listServer" type="text" label="Unesite IP adresu odakle zelite da uzimate listu kanala: " default="" visible="true"/>
+</settings>
+
+

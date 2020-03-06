@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,69. Canal Digitaal Infokanal
+rtsp://sat.ip/?alisatid=10&freq=11739&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,562,82,2462
+#EXTINF:0,70. TVV Infokanaal
+rtsp://sat.ip/?alisatid=10&freq=11739&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,563,82,2463
+#EXTINF:0,75. SES UHD Demo
+rtsp://sat.ip/?alisatid=10&freq=11778&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,511,512,1200
+#EXTINF:0,76. SES UHD Demo
+rtsp://sat.ip/?alisatid=10&freq=11778&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=23&pids=0,17,18,257,258,256
+#EXTINF:0,205. RTS Svet HD
+rtsp://sat.ip/?alisatid=10&freq=11914&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,991,992,990
+#EXTINF:0,216. German Tote TV
+rtsp://sat.ip/?alisatid=10&freq=11934&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4110,4120,4100
+#EXTINF:0,282. Regionalni TV
+rtsp://sat.ip/?alisatid=10&freq=12090&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,7141,7142,7146
+#EXTINF:0,315. Òcko
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,54,53,257
+#EXTINF:0,316. Ocko Star
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,55,56,57
+#EXTINF:0,317. TV Lux HD
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,35,36,1008
+#EXTINF:0,318. Chamber TV HD
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,51,50,1024
+#EXTINF:0,319. Nordliicht TV  Sundays 13h-14h CET
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1141,1142,5240
+#EXTINF:0,320. RTL Tele Letzebuerg
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1141,1142,5240
+#EXTINF:0,321. Teleippica 1
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,100,40102,437
+#EXTINF:0,322. Unire Sat HD
+rtsp://sat.ip/?alisatid=10&freq=12168&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,38,39,4217
+#EXTINF:0,332. TV Rebel
+rtsp://sat.ip/?alisatid=10&freq=12187&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,564,164,2764
+#EXTINF:0,333. TV Relax
+rtsp://sat.ip/?alisatid=10&freq=12187&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,565,165,2765
+#EXTINF:0,336. TV Drenthe
+rtsp://sat.ip/?alisatid=10&freq=12187&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,571,271,2771
+#EXTINF:0,345. CT 24 HD
+rtsp://sat.ip/?alisatid=10&freq=12344&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=23&pids=0,17,18,1310,1320,1300
+#EXTINF:0,357. Noe TV HD
+rtsp://sat.ip/?alisatid=10&freq=12363&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29500&fec=34&pids=0,17,18,5020,5030,5010
+#EXTINF:0,358. Power TV Czech
+rtsp://sat.ip/?alisatid=10&freq=12363&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29500&fec=34&pids=0,17,18,5512,5522,5502
+#EXTINF:0,359. Slagr TV
+rtsp://sat.ip/?alisatid=10&freq=12363&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29500&fec=34&pids=0,17,18,5513,5523,5503
+#EXTINF:0,360. TV8 HD Slovakia
+rtsp://sat.ip/?alisatid=10&freq=12363&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29500&fec=34&pids=0,17,18,5514,5524,5504
+#EXTINF:0,361. Ocko Star
+rtsp://sat.ip/?alisatid=10&freq=12363&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29500&fec=34&pids=0,17,18,5517,5527,5507

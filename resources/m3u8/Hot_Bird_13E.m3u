@@ -1,0 +1,733 @@
+#EXTM3U
+#EXTINF:0,5. TVP Info HD
+rtsp://sat.ip/?alisatid=6&freq=10719&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,168,112,1009
+#EXTINF:0,10. NASA 4K
+rtsp://sat.ip/?alisatid=6&freq=10727&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,357,358,356
+#EXTINF:0,15. Stars.TV
+rtsp://sat.ip/?alisatid=6&freq=10758&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,291,547,50
+#EXTINF:0,23. 4 Fun TV
+rtsp://sat.ip/?alisatid=6&freq=10758&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,265,521,32
+#EXTINF:0,24. 4FUN Gold Hits
+rtsp://sat.ip/?alisatid=6&freq=10758&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,276,532,32
+#EXTINF:0,25. 4FUN Dance
+rtsp://sat.ip/?alisatid=6&freq=10758&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,280,536,32
+#EXTINF:0,33. ESKA TV Extra
+rtsp://sat.ip/?alisatid=6&freq=10758&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,337,593,67
+#EXTINF:0,37. IRINN - Iranian News Network
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1060,1061,106
+#EXTINF:0,38. IRIB Quran
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1080,1081,108
+#EXTINF:0,39. iFilm
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1140,11411142,114
+#EXTINF:0,40. Irib Nasim
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1200,1201,120
+#EXTINF:0,41. IRIB TV 1
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1210,1211,121
+#EXTINF:0,42. Sahar TV Francophone
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1260,1261,126
+#EXTINF:0,43. Sahar TV Azari
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1270,1271,127
+#EXTINF:0,44. Sahar Universal Network 2
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1280,1281,128
+#EXTINF:0,45. Al Kawthar
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1300,1301,130
+#EXTINF:0,46. Press TV HD
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1310,1311,131
+#EXTINF:0,47. Hispan TV
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1320,1321,132
+#EXTINF:0,48. iFilm English
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1330,1331,133
+#EXTINF:0,49. Sahar TV Kurdish
+rtsp://sat.ip/?alisatid=6&freq=10775&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=35&pids=0,17,18,1290,1291,129
+#EXTINF:0,51. VOX Music TV
+rtsp://sat.ip/?alisatid=6&freq=10796&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,162,88,1003
+#EXTINF:0,52. TVS - TV Silesia
+rtsp://sat.ip/?alisatid=6&freq=10796&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,163,92,1004
+#EXTINF:0,62. EskaRock TV
+rtsp://sat.ip/?alisatid=6&freq=10796&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,174,136,1015
+#EXTINF:0,68. NetViet
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2006,3006,1006
+#EXTINF:0,69. VOTV
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2008,3008,1008
+#EXTINF:0,70. BVN - Beste van Vlaanderen en Nederland
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2011,3011,1011
+#EXTINF:0,71. CNL Russia
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2012,3012,1012
+#EXTINF:0,72. Fashion One
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2015,3015,1015
+#EXTINF:0,73. TBN Russia
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2017,3017,1017
+#EXTINF:0,74. Thai TV Global Network
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2020,3020,1020
+#EXTINF:0,75. TVK  9h-11h CET
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2037,3037,1037
+#EXTINF:0,76. The Word Network
+rtsp://sat.ip/?alisatid=6&freq=10815&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2073,3073,1073
+#EXTINF:0,84. Red Carpet TV
+rtsp://sat.ip/?alisatid=6&freq=10834&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,168,112,1009
+#EXTINF:0,89. Al Maghribia
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,308,309,306
+#EXTINF:0,90. Al Aoula Laayoune
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,35,36,33
+#EXTINF:0,91. Al Aoula Inter HD
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1001,256,32
+#EXTINF:0,92. Arrabiaa
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,46,47,44
+#EXTINF:0,93. Al Aoula Inter
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1026,1027,1024
+#EXTINF:0,94. Assadissa
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1537,1538,1536
+#EXTINF:0,95. Medi 1 TV
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2050,2049,2048
+#EXTINF:0,96. Arryadia HD
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2562,2563,2560
+#EXTINF:0,97. Tamazight HD
+rtsp://sat.ip/?alisatid=6&freq=10873&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3841,3842,3840
+#EXTINF:0,122. HSE24 HD Italia
+rtsp://sat.ip/?alisatid=6&freq=10930&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,1731,1732,765
+#EXTINF:0,130. UA TV
+rtsp://sat.ip/?alisatid=6&freq=10930&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,44,192,48
+#EXTINF:0,137. Al Hiwar TV
+rtsp://sat.ip/?alisatid=6&freq=10949&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6501,6511,266
+#EXTINF:0,139. EWTN Europe
+rtsp://sat.ip/?alisatid=6&freq=10949&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7101,7111,7198
+#EXTINF:0,140. CNBC Europe
+rtsp://sat.ip/?alisatid=6&freq=10949&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7201,7211,7298
+#EXTINF:0,141. Al Fady
+rtsp://sat.ip/?alisatid=6&freq=10949&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7301,7311,7398
+#EXTINF:0,142. Sat 7 Pars
+rtsp://sat.ip/?alisatid=6&freq=10949&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7801,7811,7898
+#EXTINF:0,143. Imam Hussein TV
+rtsp://sat.ip/?alisatid=6&freq=10949&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6701,6711,6798
+#EXTINF:0,150. Rai 1
+rtsp://sat.ip/?alisatid=6&freq=10992&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,512,650,1104
+#EXTINF:0,151. Rai 2
+rtsp://sat.ip/?alisatid=6&freq=10992&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,513,651,1105
+#EXTINF:0,152. Rai 3
+rtsp://sat.ip/?alisatid=6&freq=10992&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,514,652,1106
+#EXTINF:0,154. Rai News 24
+rtsp://sat.ip/?alisatid=6&freq=10992&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,520,690,1107
+#EXTINF:0,162. Algérie 5
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,120,130,100
+#EXTINF:0,163. Algérie 4
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,220,230,200
+#EXTINF:0,164. TNT Comedy
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,320,330,300
+#EXTINF:0,165. 112 Ukraine HD
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,420,430,400
+#EXTINF:0,166. 2M Monde
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,520,530,500
+#EXTINF:0,167. CGTN
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,620,630,600
+#EXTINF:0,168. STS International
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,720,730,700
+#EXTINF:0,169. RTR Planeta
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,820,830,800
+#EXTINF:0,170. BestMarket TV
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,920,930,900
+#EXTINF:0,171. Rossiya 24
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1020,1030,1000
+#EXTINF:0,172. NTV Mir
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1320,1330,1300
+#EXTINF:0,173. Ganj e Hozour TV
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1720,1730,1700
+#EXTINF:0,174. TV 8 Russia
+rtsp://sat.ip/?alisatid=6&freq=11034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1820,1830,1800
+#EXTINF:0,175. Arti TV
+rtsp://sat.ip/?alisatid=6&freq=11054&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,310,320,300
+#EXTINF:0,176. Jin TV
+rtsp://sat.ip/?alisatid=6&freq=11054&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2510,2520,2500
+#EXTINF:0,177. Can TV
+rtsp://sat.ip/?alisatid=6&freq=11054&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2710,2720,2700
+#EXTINF:0,178. Iran Aryaee
+rtsp://sat.ip/?alisatid=6&freq=11054&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,3110,3120,3100
+#EXTINF:0,179. Aristo.TV
+rtsp://sat.ip/?alisatid=6&freq=11075&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,1010,1020,1000
+#EXTINF:0,180. Anixe TV
+rtsp://sat.ip/?alisatid=6&freq=11075&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,1110,1120,1100
+#EXTINF:0,181. Anixe HD
+rtsp://sat.ip/?alisatid=6&freq=11075&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,1210,1220,1200
+#EXTINF:0,188. Bloomberg Europe
+rtsp://sat.ip/?alisatid=6&freq=11137&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3502,3622,265
+#EXTINF:0,189. Al Jazeera English
+rtsp://sat.ip/?alisatid=6&freq=11137&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3505,3625,266
+#EXTINF:0,190. Al Jazeera English HD
+rtsp://sat.ip/?alisatid=6&freq=11137&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3506,3626,267
+#EXTINF:0,191. TV5 Monde Europe
+rtsp://sat.ip/?alisatid=6&freq=11137&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3522,3642,719
+#EXTINF:0,192. Bartar TV
+rtsp://sat.ip/?alisatid=6&freq=11137&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3533,3653,33
+#EXTINF:0,193. Manoto 1
+rtsp://sat.ip/?alisatid=6&freq=11137&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3555,3675,295
+#EXTINF:0,205. Al Karma
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,640,625,1025
+#EXTINF:0,206. TVP Polonia
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1990,1991,1080
+#EXTINF:0,207. Fashion TV
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1401,1402,1405
+#EXTINF:0,208. QVC Italia
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1335,1336,1069
+#EXTINF:0,209. Juwelo TV Italia
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3810,3820,1070
+#EXTINF:0,210. Coptic TV
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,554,564,1551
+#EXTINF:0,211. Marjaeyat
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,580,581,1063
+#EXTINF:0,212. Radio Radio TV
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1181,1182,1185
+#EXTINF:0,213. Archinews 24
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1271,1272,1275
+#EXTINF:0,214. Canale Italia 2
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1371,1372,1375
+#EXTINF:0,216. TeleCampione
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1221,1222,1225
+#EXTINF:0,217. TV Art Live
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1241,1242,1245
+#EXTINF:0,218. Lazio Channel
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1231,258,1235
+#EXTINF:0,219. Made in Italy
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,486,487,32
+#EXTINF:0,220. ART Invest
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1211,1212,1206
+#EXTINF:0,221. Telecupole
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1411,1412,1415
+#EXTINF:0,222. Viva l´Italia Channel
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,486,487,1265
+#EXTINF:0,223. All Inn Channel
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1201,1202,1205
+#EXTINF:0,224. Automoto TV
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1281,1282,1285
+#EXTINF:0,225. MediaSport Channel
+rtsp://sat.ip/?alisatid=6&freq=11179&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1291,1292,1295
+#EXTINF:0,226. Mohabat TV
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,370,371,372
+#EXTINF:0,227. VenetoLink
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2004,3004,1004
+#EXTINF:0,228. MTA 3 Al Arabiyah
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,366,367,2560
+#EXTINF:0,229. MTA Africa
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2007,3007,1007
+#EXTINF:0,230. KICC TV
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2009,3009,1009
+#EXTINF:0,231. Gunaz TV
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2063,3063,1063
+#EXTINF:0,232. !mwal3a 3lik
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2078,3078,1074
+#EXTINF:0,233. Nar Elhob
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2078,3078,1075
+#EXTINF:0,234. anta 7iate
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2078,3078,1076
+#EXTINF:0,235. lo3b whob
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2078,3078,1077
+#EXTINF:0,236. Arab Fun 2
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2078,3078,1078
+#EXTINF:0,237. Al Waad Channel
+rtsp://sat.ip/?alisatid=6&freq=11200&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2084,3084,1084
+#EXTINF:0,263. Novy Mir
+rtsp://sat.ip/?alisatid=6&freq=11240&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,512,4112,256
+#EXTINF:0,264. Russia Today
+rtsp://sat.ip/?alisatid=6&freq=11240&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,311,312,310
+#EXTINF:0,288. Freedom TV
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2001,3001,1001
+#EXTINF:0,289. CBC Azerbaycan
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2002,3002,1002
+#EXTINF:0,290. Yemen TV
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2004,30044004,1004
+#EXTINF:0,291. Kurdsat
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2007,3007,1007
+#EXTINF:0,292. Nour TV
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2008,3008,1008
+#EXTINF:0,293. Ictimai TV
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2009,3009,1009
+#EXTINF:0,294. STV Xezer
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2010,3010,1010
+#EXTINF:0,295. Lalish TV
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2011,3011,1011
+#EXTINF:0,296. Kazakh TV
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2012,3012,1012
+#EXTINF:0,297. Az TV 1
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2013,3013,1013
+#EXTINF:0,298. Medya Haber
+rtsp://sat.ip/?alisatid=6&freq=11296&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,2014,3014,1014
+#EXTINF:0,299. Rusiya Al-Yaum
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1032,1232,132
+#EXTINF:0,300. Kentron TV
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1033,1233,133
+#EXTINF:0,301. Kalemeh TV
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1034,1234,134
+#EXTINF:0,302. Payam e Afghan
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1035,1235,135
+#EXTINF:0,303. Kalsan TV
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1036,1236,136
+#EXTINF:0,304. HCTV - Horn Cable TV
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1037,1237,137
+#EXTINF:0,305. AssyriaSat (BET Nahrain)
+rtsp://sat.ip/?alisatid=6&freq=11316&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1039,1239,139
+#EXTINF:0,306. Armenia 1 TV
+rtsp://sat.ip/?alisatid=6&freq=11334&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1401,1402,264
+#EXTINF:0,307. Armenia TV
+rtsp://sat.ip/?alisatid=6&freq=11334&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1601,1602,266
+#EXTINF:0,308. SonLife Broadcasting Network
+rtsp://sat.ip/?alisatid=6&freq=11334&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1901,1902,269
+#EXTINF:0,309. RTP International
+rtsp://sat.ip/?alisatid=6&freq=11334&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2001,2002,270
+#EXTINF:0,318. Iran International HD
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5011,5012,5010
+#EXTINF:0,319. Nasa TV
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5041,5042504350445045,5040
+#EXTINF:0,320. Rudaw HD
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5061,5062,5060
+#EXTINF:0,321. Waar TV HD
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5071,5072,5070
+#EXTINF:0,322. Kurdistan 24 HD
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5081,5082,5080
+#EXTINF:0,323. 6 Mia TV
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5091,5092,5090
+#EXTINF:0,324. Parole di Vita
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5101,5102,5100
+#EXTINF:0,325. World Fashion Channel
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5301,5302,5300
+#EXTINF:0,326. Tesory Channel
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5321,5322,5320
+#EXTINF:0,327. NHK World HD
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5331,5332,5330
+#EXTINF:0,328. Iraqia News HD
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5341,5342,5340
+#EXTINF:0,329. ETV News
+rtsp://sat.ip/?alisatid=6&freq=11373&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5351,5352,5350
+#EXTINF:0,330. Mango 24
+rtsp://sat.ip/?alisatid=6&freq=11393&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,517,700,265
+#EXTINF:0,331. Nuta TV
+rtsp://sat.ip/?alisatid=6&freq=11393&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,518,710,266
+#EXTINF:0,336. NTL
+rtsp://sat.ip/?alisatid=6&freq=11393&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,525,780,273
+#EXTINF:0,337. Power TV (Poland)
+rtsp://sat.ip/?alisatid=6&freq=11393&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,528,810,276
+#EXTINF:0,338. TO!TV
+rtsp://sat.ip/?alisatid=6&freq=11393&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,529,820,277
+#EXTINF:0,364. Wesal Al Haq
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,301,302,300
+#EXTINF:0,365. ES TV
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,701,702703,700
+#EXTINF:0,366. Al Alam
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,801,802,800
+#EXTINF:0,367. Somali Cable
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,901,903,900
+#EXTINF:0,368. Towheed TV
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1001,1002,1000
+#EXTINF:0,369. Telefeshinka Caalamiga
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,131,132,130
+#EXTINF:0,370. Universal TV  Time sharing
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,131,132,130
+#EXTINF:0,371. Azadi Television
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1401,1402,140
+#EXTINF:0,372. SNTV
+rtsp://sat.ip/?alisatid=6&freq=11470&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3021,3022,3020
+#EXTINF:0,393. SRF info HD
+rtsp://sat.ip/?alisatid=6&freq=11526&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,522,523,521
+#EXTINF:0,394. SRF 1
+rtsp://sat.ip/?alisatid=6&freq=11526&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,,211,451
+#EXTINF:0,395. Simaye Azadi HD
+rtsp://sat.ip/?alisatid=6&freq=11541&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,6230,6231,3623
+#EXTINF:0,399. TG Norba 24
+rtsp://sat.ip/?alisatid=6&freq=11541&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,6280,6281,3628
+#EXTINF:0,400. XMUVI
+rtsp://sat.ip/?alisatid=6&freq=11541&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,6460,6461,3646
+#EXTINF:0,401. Italy Sat
+rtsp://sat.ip/?alisatid=6&freq=11541&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,6460,6461,3650
+#EXTINF:0,402. Tivu Tivu
+rtsp://sat.ip/?alisatid=6&freq=11541&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,6460,6461,3651
+#EXTINF:0,403. Qatar TV HD
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,780,781,798
+#EXTINF:0,404. TRT Arabi HD
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,790,791,799
+#EXTINF:0,405. Belarus 24 HD
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,810,820,800
+#EXTINF:0,406. Euronews HD
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,811,821,801
+#EXTINF:0,407. Kuwait TV
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,812,822,802
+#EXTINF:0,408. TRT World HD
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,813,823,803
+#EXTINF:0,409. Bahrain TV
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,816,826,806
+#EXTINF:0,410. France 24 HD (en Francais)
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,817,827,807
+#EXTINF:0,411. France 24 HD (in English)
+rtsp://sat.ip/?alisatid=6&freq=11565&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,818,828,808
+#EXTINF:0,413. CCTV 4
+rtsp://sat.ip/?alisatid=6&freq=11585&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,512,650,256
+#EXTINF:0,414. CGTN
+rtsp://sat.ip/?alisatid=6&freq=11585&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,513,660,257
+#EXTINF:0,415. CGTN Documentary
+rtsp://sat.ip/?alisatid=6&freq=11585&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,514,670,258
+#EXTINF:0,416. CGTN Espaňol HD
+rtsp://sat.ip/?alisatid=6&freq=11585&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,515,680,260
+#EXTINF:0,417. CGTN Français HD
+rtsp://sat.ip/?alisatid=6&freq=11585&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,516,690,261
+#EXTINF:0,418. Iran Aryaee
+rtsp://sat.ip/?alisatid=6&freq=11604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,3610,3620,3600
+#EXTINF:0,419. TV Rus
+rtsp://sat.ip/?alisatid=6&freq=11604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,3710,3720,3700
+#EXTINF:0,420. TV Congo
+rtsp://sat.ip/?alisatid=6&freq=11623&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,221,241,201
+#EXTINF:0,421. Arirang TV
+rtsp://sat.ip/?alisatid=6&freq=11623&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,225,245,205
+#EXTINF:0,422. Soyuz TV
+rtsp://sat.ip/?alisatid=6&freq=11623&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,243,253,223
+#EXTINF:0,424. ERT World
+rtsp://sat.ip/?alisatid=6&freq=11623&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,226,326,126
+#EXTINF:0,425. RTL 102.5 TV HD
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1801,1802,1800
+#EXTINF:0,426. Radio Freccia HD
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1811,1812,1810
+#EXTINF:0,427. i24News HD Français
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1821,1822,1820
+#EXTINF:0,428. i24News HD English
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1831,1832,1830
+#EXTINF:0,429. Radionorba TV
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1841,1842,1840
+#EXTINF:0,430. KBS World HD
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1861,1862,1860
+#EXTINF:0,431. HRT International
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1871,1872,1870
+#EXTINF:0,432. Eutelsat Promo
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1891,1892,1890
+#EXTINF:0,433. Kurdistan TV
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1901,1902,1900
+#EXTINF:0,434. Daystar HD
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1911,1912,1910
+#EXTINF:0,435. Bethel HD
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1931,1932,1930
+#EXTINF:0,436. Zeta TV HD
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1941,1942,1940
+#EXTINF:0,437. RTL 102.5 Radio Doc
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1961,1962,1960
+#EXTINF:0,442. People TV
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1741,1742,1740
+#EXTINF:0,443. XMUVI
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3291,3292,3290
+#EXTINF:0,444. Italy Sat
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3291,3292,3330
+#EXTINF:0,445. Tivu Tivu
+rtsp://sat.ip/?alisatid=6&freq=11642&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3291,3292,3340
+#EXTINF:0,446. Italy Sat
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1571,1572,1910
+#EXTINF:0,447. Dipre TV
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1571,1572,1911
+#EXTINF:0,448. Tivu Tivu
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1571,1572,1912
+#EXTINF:0,449. Black
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1571,1572,1916
+#EXTINF:0,450. Emilia Romagna 24
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1251,1252,1255
+#EXTINF:0,451. TRM Network
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1351,1352,1355
+#EXTINF:0,452. Canale Italia
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1361,1362,1365
+#EXTINF:0,455. La 8
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1151,1152,1156
+#EXTINF:0,456. AuroraArte
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2181,2182,2180
+#EXTINF:0,457. Life 120 Channel
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1121,1122,1470
+#EXTINF:0,458. Tele Padre Pio
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,650,651,1070
+#EXTINF:0,459. Record TV Europa
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3330,3331,1953
+#EXTINF:0,460. Tele 5 Polska
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2011,2012,1855
+#EXTINF:0,461. Polonia 1
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2021,2022,1856
+#EXTINF:0,464. TV Romania International
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2967,3967,1967
+#EXTINF:0,465. Radio Italia TV
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1010,1012,1962
+#EXTINF:0,466. Unire Sat HD
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2963,39634963,1963
+#EXTINF:0,467. Arte Atelier
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1101,1102,1105
+#EXTINF:0,468. Antichità Chiossone
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1976,1977,1965
+#EXTINF:0,469. Radio Italia Trend TV  HD
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1968,1969,1966
+#EXTINF:0,470. Suryoyo Sat
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2447,2448,2449
+#EXTINF:0,471. Venus TV Italy
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1131,1132,1136
+#EXTINF:0,472. Music Life
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1131,1132,1337
+#EXTINF:0,473. Lazio Channel
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1131,1132,1348
+#EXTINF:0,474. Fuego
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1131,1132,1339
+#EXTINF:0,475. Radio Kiss Kiss TV
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2017,2018,2015
+#EXTINF:0,476. RDS Social TV
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,5302,5303,1987
+#EXTINF:0,477. QVC Italia HD
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1833,1834,1679
+#EXTINF:0,478. BFC
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1111,1112,1570
+#EXTINF:0,479. CIAO
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1191,1192,1195
+#EXTINF:0,480. Napoli Mia
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1191,1192,1196
+#EXTINF:0,481. TVA Vicenza
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1993,1994,1995
+#EXTINF:0,482. Videolina
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2195,2193,1770
+#EXTINF:0,483. TeleItalia
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1191,1192,1197
+#EXTINF:0,484. Eursat
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1131,1132,1135
+#EXTINF:0,485. La 9
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,1151,1152,1155
+#EXTINF:0,486. Digiquest Promo
+rtsp://sat.ip/?alisatid=6&freq=11662&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2001,2202,1936
+#EXTINF:0,493. Arte HD
+rtsp://sat.ip/?alisatid=6&freq=11681&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,571,572,570
+#EXTINF:0,509. DW English HD
+rtsp://sat.ip/?alisatid=6&freq=11727&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,1010,1011,101
+#EXTINF:0,510. Sharjah HD
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4341,4342,4340
+#EXTINF:0,511. Dubai Sports 1 HD
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4371,4372,4370
+#EXTINF:0,512. YAS Sports HD
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4509,4510,4508
+#EXTINF:0,513. Zad TV
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4591,4592,32
+#EXTINF:0,514. Al Sharqiya HD
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,113,78,58
+#EXTINF:0,515. Abu Dhabi TV HD
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4519,4520,4518
+#EXTINF:0,516. Al Arabiya HD
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,515,643,35
+#EXTINF:0,517. Sky News Arabia
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4312,4313,4311
+#EXTINF:0,518. Orient News
+rtsp://sat.ip/?alisatid=6&freq=11747&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,4411,4412,4410
+#EXTINF:0,535. Camera dei Deputati
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,517,655,262
+#EXTINF:0,536. Rai Sport
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,513,613,263
+#EXTINF:0,537. Rai Storia
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,514,614,264
+#EXTINF:0,538. Rai Gulp
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,515,615,265
+#EXTINF:0,540. Rai Scuola
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,518,618,267
+#EXTINF:0,541. Rai Nettuno Sat Uno
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,519,657,256
+#EXTINF:0,544. Senato italiano
+rtsp://sat.ip/?alisatid=6&freq=11804&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=23&pids=0,17,18,522,622,270
+#EXTINF:0,586. TgCom24
+rtsp://sat.ip/?alisatid=6&freq=11919&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=29900&fec=56&pids=0,17,18,1810,1811,264
+#EXTINF:0,658. TV 2000
+rtsp://sat.ip/?alisatid=6&freq=12034&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=29900&fec=56&pids=0,17,18,169,436,1104
+#EXTINF:0,698. Al Jazeera Documentary
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,240,241,1028
+#EXTINF:0,699. Al Jazeera Mubasher
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,250,251,1029
+#EXTINF:0,700. Al Jazeera Satellite Channel
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,270,271,1031
+#EXTINF:0,701. S Neu Jerusalem
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,345,346,1173
+#EXTINF:0,702. Neu Jerusalem 2
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,345,346,1174
+#EXTINF:0,703. El Sharq
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1128,1640,1627
+#EXTINF:0,704. Al Mayadeen
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1403,2403,1135
+#EXTINF:0,705. Canale Italia 83
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1381,1382,1385
+#EXTINF:0,706. Canale Italia 84
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1391,1392,1390
+#EXTINF:0,707. RIK Sat
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,108,102,1080
+#EXTINF:0,708. Hadi TV 3
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,951,950,960
+#EXTINF:0,709. Mekameleen TV
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,151,152,1188
+#EXTINF:0,710. MTA International
+rtsp://sat.ip/?alisatid=6&freq=12111&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2354,2355,1189
+#EXTINF:0,718. Tunisia Nat 1
+rtsp://sat.ip/?alisatid=6&freq=12149&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,112,113,42
+#EXTINF:0,719. CCTV 4
+rtsp://sat.ip/?alisatid=6&freq=12149&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,224,225,68
+#EXTINF:0,720. SMTV San Marino HD
+rtsp://sat.ip/?alisatid=6&freq=12149&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5171,5172,5170
+#EXTINF:0,721. Al Bayyinah TV
+rtsp://sat.ip/?alisatid=6&freq=12149&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3312,3313,3310
+#EXTINF:0,722. RTL 102.5
+rtsp://sat.ip/?alisatid=6&freq=12149&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,,6420,3642
+#EXTINF:0,736. Kanali Voulis
+rtsp://sat.ip/?alisatid=6&freq=12169&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,517,700,278
+#EXTINF:0,745. TV Okazje
+rtsp://sat.ip/?alisatid=6&freq=12188&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,265,266,67
+#EXTINF:0,748. TV Okazje
+rtsp://sat.ip/?alisatid=6&freq=12188&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,265,266,50
+#EXTINF:0,763. CurrentTime HD
+rtsp://sat.ip/?alisatid=6&freq=12225&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1760,1720,5001
+#EXTINF:0,764. CurrentTime
+rtsp://sat.ip/?alisatid=6&freq=12225&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1860,1820,5002
+#EXTINF:0,765. Voice of America (VOA)
+rtsp://sat.ip/?alisatid=6&freq=12225&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3260,32203222,5100
+#EXTINF:0,766. Radio Farda
+rtsp://sat.ip/?alisatid=6&freq=12225&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1560,1532,5223
+#EXTINF:0,767. VOA Persian HD
+rtsp://sat.ip/?alisatid=6&freq=12225&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1960,1920,5235
+#EXTINF:0,768. Voice of America (VOA)
+rtsp://sat.ip/?alisatid=6&freq=12225&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5060,5020,5340
+#EXTINF:0,803. Telesur
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,2101,2102,480
+#EXTINF:0,804. TBN Europe HD
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8001,48,1801
+#EXTINF:0,805. Life TV
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8002,8102,1802
+#EXTINF:0,806. Hillsong
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8004,8104,1804
+#EXTINF:0,807. Al Horreya TV
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8006,8106,1806
+#EXTINF:0,808. TBN Poland
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8007,8107,1807
+#EXTINF:0,809. Nejat TV
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8009,8109,1809
+#EXTINF:0,810. Al Hayat / Life Channel
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8010,8110,1810
+#EXTINF:0,811. TBNE Italy (Trinity Broadcasting Network)
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,8003,8103,3203
+#EXTINF:0,812. TVE Internacional HD
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3521,3522,3520
+#EXTINF:0,813. 24 Horas HD
+rtsp://sat.ip/?alisatid=6&freq=12303&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,3569,3570,3568
+#EXTINF:0,814. RIT TV
+rtsp://sat.ip/?alisatid=6&freq=12322&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,33,34,32
+#EXTINF:0,815. Shant TV
+rtsp://sat.ip/?alisatid=6&freq=12322&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,308,256,260
+#EXTINF:0,816. BBC Persian
+rtsp://sat.ip/?alisatid=6&freq=12322&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7031,7032,6544
+#EXTINF:0,819. Velayat TV
+rtsp://sat.ip/?alisatid=6&freq=12322&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,8071,8072,8070
+#EXTINF:0,820. Persian Music Channel
+rtsp://sat.ip/?alisatid=6&freq=12322&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,8081,8082,8080
+#EXTINF:0,821. Iran International
+rtsp://sat.ip/?alisatid=6&freq=12322&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,8101,8102,8100
+#EXTINF:0,838. CNBC Europe HD
+rtsp://sat.ip/?alisatid=6&freq=12360&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,173,431,1117
+#EXTINF:0,843. Karbala TV
+rtsp://sat.ip/?alisatid=6&freq=12380&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3212,3312,3112
+#EXTINF:0,844. CGN TV
+rtsp://sat.ip/?alisatid=6&freq=12380&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3213,3313,3113
+#EXTINF:0,845. Euronews Russian
+rtsp://sat.ip/?alisatid=6&freq=12380&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3214,3314,3114
+#EXTINF:0,846. Euronews Hungarian
+rtsp://sat.ip/?alisatid=6&freq=12380&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3215,3315,3115
+#EXTINF:0,847. Al Siera Al Nabaweia
+rtsp://sat.ip/?alisatid=6&freq=12380&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3127,3137,3117
+#EXTINF:0,848. Sama Dubai HD
+rtsp://sat.ip/?alisatid=6&freq=12399&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,1301,1302,1300
+#EXTINF:0,849. Dubai TV HD
+rtsp://sat.ip/?alisatid=6&freq=12399&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,101,102,100
+#EXTINF:0,850. Dubai Sports 1 HD
+rtsp://sat.ip/?alisatid=6&freq=12399&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,201,202,200
+#EXTINF:0,863. Eutelsat 8K Demo
+rtsp://sat.ip/?alisatid=6&freq=12437&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,256,257,4096
+#EXTINF:0,872. RT HD
+rtsp://sat.ip/?alisatid=6&freq=12475&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,2011,20122013,2010
+#EXTINF:0,873. RT Doc HD
+rtsp://sat.ip/?alisatid=6&freq=12475&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,2021,2022,2020
+#EXTINF:0,874. Supertennis HD
+rtsp://sat.ip/?alisatid=6&freq=12475&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,2031,2032,2030
+#EXTINF:0,875. Telepace HD
+rtsp://sat.ip/?alisatid=6&freq=12475&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,2041,2042,2040
+#EXTINF:0,879. Euronews Italian
+rtsp://sat.ip/?alisatid=6&freq=12475&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,2171,2172,2170
+#EXTINF:0,880. Euronews Greek
+rtsp://sat.ip/?alisatid=6&freq=12475&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29900&fec=34&pids=0,17,18,2181,2182,2180
+#EXTINF:0,883. Ronahi TV
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1031,1032,903
+#EXTINF:0,884. Med Music
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1041,1042,904
+#EXTINF:0,885. Fadak TV
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1051,1052,905
+#EXTINF:0,886. Alaraby 2 HD
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1061,1062,906
+#EXTINF:0,887. Angel TV
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1091,1092,909
+#EXTINF:0,888. Sterk TV HD
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1111,1112,911
+#EXTINF:0,889. Cira TV
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1121,1122,912
+#EXTINF:0,890. Syria TV HD
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1141,1142,914
+#EXTINF:0,891. Somaliland National TV
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1161,1162,916
+#EXTINF:0,892. The Kingdom Sat
+rtsp://sat.ip/?alisatid=6&freq=12520&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1181,1182,918
+#EXTINF:0,893. Hot Bird 4k Test
+rtsp://sat.ip/?alisatid=6&freq=12539&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=56&pids=0,17,18,111,112,110
+#EXTINF:0,894. Fashion 4K
+rtsp://sat.ip/?alisatid=6&freq=12539&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=56&pids=0,17,18,121,122,120
+#EXTINF:0,897. Al Jazeera HD
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6011,6012,601
+#EXTINF:0,898. Fishing TV
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6021,6022,602
+#EXTINF:0,899. Wine TV
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6031,6032,603
+#EXTINF:0,900. Italia Channel
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6051,6052,605
+#EXTINF:0,901. Mediatext.it
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6051,6052,607
+#EXTINF:0,902. Telepiù Channel
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6051,6052,608
+#EXTINF:0,903. Pianeta TV
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6051,6052,609
+#EXTINF:0,904. Reality TV
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6051,6052,610
+#EXTINF:0,905. Quore TV
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6051,6052,611
+#EXTINF:0,906. CNC World
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6121,6122,612
+#EXTINF:0,907. Automoto TV
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6131,6132,613
+#EXTINF:0,908. MediaSport Channel
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6141,6142,614
+#EXTINF:0,909. Canal Algérie
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6151,680,615
+#EXTINF:0,910. Algerie 3 HD
+rtsp://sat.ip/?alisatid=6&freq=12576&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6161,670,616
+#EXTINF:0,911. BBC Arabic
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1001,1011,1098
+#EXTINF:0,912. BBC World News
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,163,92,1027
+#EXTINF:0,913. Perviy Kanal Romania
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,167,108,1031
+#EXTINF:0,915. Euronews English
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2221,2232,1034
+#EXTINF:0,916. JSTV - Japan Satellite TV
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2000,2001,1037
+#EXTINF:0,918. ORT International (Perviy kanal Vsemirnaja set)
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2301,2311,1033
+#EXTINF:0,919. RT Doc
+rtsp://sat.ip/?alisatid=6&freq=12596&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6101,6111,6198
+#EXTINF:0,931. Saudi Channel 1
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1360,1320,5003
+#EXTINF:0,932. Iqraa TV
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1560,1520,5005
+#EXTINF:0,933. Sudan TV
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1660,1620,5032
+#EXTINF:0,934. Oman TV HD
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1760,1720,5035
+#EXTINF:0,935. Al Masriyah
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1860,1820,5008
+#EXTINF:0,936. Iraqia News
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,1960,1920,5061
+#EXTINF:0,937. Jordan Satellite Channel
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,4060,4020,5049
+#EXTINF:0,938. Al Haramien
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,4260,4220,5053
+#EXTINF:0,939. Libya Alwatnya
+rtsp://sat.ip/?alisatid=6&freq=12654&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=56&pids=0,17,18,4360,4320,5054
+#EXTINF:0,949. BFM TV
+rtsp://sat.ip/?alisatid=6&freq=12692&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=34&pids=0,17,18,751,752,750

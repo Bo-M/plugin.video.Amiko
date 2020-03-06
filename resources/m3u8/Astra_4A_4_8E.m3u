@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:0,1. Dove TV (Nigeria)
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,513,514,512
+#EXTINF:0,2. Liberation TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,257,259,768
+#EXTINF:0,3. Plus TV Africa HD
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,4112,256
+#EXTINF:0,4. Mountain of Fire and Miracles
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,33,34,32
+#EXTINF:0,5. Wap TV Nigeria
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,100,110,7005
+#EXTINF:0,6. TVC News
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,613,5112,256
+#EXTINF:0,7. TVC Entertainment
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,713,6112,257
+#EXTINF:0,8. Impact Africa TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,101,256,32
+#EXTINF:0,9. Star TV Sierra Leone
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,128,144,176
+#EXTINF:0,10. TVGE International
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,711,731,2306
+#EXTINF:0,19. ECWA TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,258,257,256
+#EXTINF:0,20. SES Demo
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,255,256,96
+#EXTINF:0,21. Times TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,1002,1003,1001
+#EXTINF:0,22. PasDan TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,308,256,220
+#EXTINF:0,23. Label TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,308,128,32
+#EXTINF:0,24. Galaxy TV (Nigeria)
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,4112,256
+#EXTINF:0,25. Core TV News
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,4113,4352,256
+#EXTINF:0,26. Quest TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,256,512,80
+#EXTINF:0,27. Spiritus TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,258,256
+#EXTINF:0,28. Our TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,120,130,40
+#EXTINF:0,29. Daily TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,68,70,80
+#EXTINF:0,30. Ghallywood TV
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,100,110,32
+#EXTINF:0,31. AIT National
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,4112,256
+#EXTINF:0,32. AIT Partners
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,1062,256
+#EXTINF:0,33. AIT National
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,1062,256
+#EXTINF:0,34. AIT International UK
+rtsp://sat.ip/?alisatid=52&freq=Frequence&pol=pol&ro=0.35&msys=standard&mtype=modulation&plts=on&sr=SR/FEC&fec=FEC&pids=0,17,18,512,1062,256
+#EXTINF:0,35. Dove TV (Nigeria)
+rtsp://sat.ip/?alisatid=52&freq=3684&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=3454&fec=35&pids=0,17,18,513,514,512
+#EXTINF:0,36. Liberation TV
+rtsp://sat.ip/?alisatid=52&freq=3691&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1600&fec=23&pids=0,17,18,257,259,768
+#EXTINF:0,37. Plus TV Africa HD
+rtsp://sat.ip/?alisatid=52&freq=3692&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1574&fec=45&pids=0,17,18,512,4112,256
+#EXTINF:0,38. Mountain of Fire and Miracles
+rtsp://sat.ip/?alisatid=52&freq=3694&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1682&fec=35&pids=0,17,18,33,34,32
+#EXTINF:0,39. Wap TV Nigeria
+rtsp://sat.ip/?alisatid=52&freq=3697&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1517&fec=35&pids=0,17,18,100,110,7005
+#EXTINF:0,40. TVC News
+rtsp://sat.ip/?alisatid=52&freq=3702&pol=l&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=5000&fec=56&pids=0,17,18,613,5112,256
+#EXTINF:0,41. TVC Entertainment
+rtsp://sat.ip/?alisatid=52&freq=3702&pol=l&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=5000&fec=56&pids=0,17,18,713,6112,257
+#EXTINF:0,42. Impact Africa TV
+rtsp://sat.ip/?alisatid=52&freq=3707&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1210&fec=56&pids=0,17,18,101,256,32
+#EXTINF:0,43. Star TV Sierra Leone
+rtsp://sat.ip/?alisatid=52&freq=3711&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1614&fec=34&pids=0,17,18,128,144,176
+#EXTINF:0,44. TVGE International
+rtsp://sat.ip/?alisatid=52&freq=3714&pol=l&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1724&fec=23&pids=0,17,18,711,731,2306
+#EXTINF:0,53. ECWA TV
+rtsp://sat.ip/?alisatid=52&freq=3843&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1134&fec=56&pids=0,17,18,258,257,256
+#EXTINF:0,54. SES Demo
+rtsp://sat.ip/?alisatid=52&freq=3846&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=2324&fec=23&pids=0,17,18,255,256,96
+#EXTINF:0,55. Times TV
+rtsp://sat.ip/?alisatid=52&freq=3851&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1667&fec=34&pids=0,17,18,1002,1003,1001
+#EXTINF:0,56. PasDan TV
+rtsp://sat.ip/?alisatid=52&freq=3853&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1130&fec=23&pids=0,17,18,308,256,220
+#EXTINF:0,57. Label TV
+rtsp://sat.ip/?alisatid=52&freq=3855&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1290&fec=23&pids=0,17,18,308,128,32
+#EXTINF:0,58. Galaxy TV (Nigeria)
+rtsp://sat.ip/?alisatid=52&freq=3857&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1520&fec=35&pids=0,17,18,512,4112,256
+#EXTINF:0,59. Core TV News
+rtsp://sat.ip/?alisatid=52&freq=3861&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1300&fec=56&pids=0,17,18,4113,4352,256
+#EXTINF:0,60. Quest TV
+rtsp://sat.ip/?alisatid=52&freq=3863&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1134&fec=23&pids=0,17,18,256,512,80
+#EXTINF:0,61. Spiritus TV
+rtsp://sat.ip/?alisatid=52&freq=3892&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=6058&fec=35&pids=0,17,18,512,258,256
+#EXTINF:0,62. Our TV
+rtsp://sat.ip/?alisatid=52&freq=3892&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=6058&fec=35&pids=0,17,18,120,130,40
+#EXTINF:0,63. Daily TV
+rtsp://sat.ip/?alisatid=52&freq=3892&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=6058&fec=35&pids=0,17,18,68,70,80
+#EXTINF:0,64. Ghallywood TV
+rtsp://sat.ip/?alisatid=52&freq=3892&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=6058&fec=35&pids=0,17,18,100,110,32
+#EXTINF:0,65. AIT National
+rtsp://sat.ip/?alisatid=52&freq=3992&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=3574&fec=12&pids=0,17,18,512,4112,256
+#EXTINF:0,66. AIT Partners
+rtsp://sat.ip/?alisatid=52&freq=3996&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=3574&fec=12&pids=0,17,18,512,1062,256
+#EXTINF:0,67. AIT National
+rtsp://sat.ip/?alisatid=52&freq=4000&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=3574&fec=12&pids=0,17,18,512,1062,256
+#EXTINF:0,68. AIT International UK
+rtsp://sat.ip/?alisatid=52&freq=4003&pol=r&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=1700&fec=34&pids=0,17,18,512,1062,256
+#EXTINF:0,136. SonLife Broadcasting Network
+rtsp://sat.ip/?alisatid=52&freq=11345&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,2876,2877,2875
+#EXTINF:0,185. TellyTrack
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,100,256,32
+#EXTINF:0,186. Zik HD
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7611,7612,7610
+#EXTINF:0,187. Mist TV
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7616,7617,7615
+#EXTINF:0,188. Sirius TV
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7621,7622,7620
+#EXTINF:0,189. Kanal 5 Ukraine HD
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7626,7627,7625
+#EXTINF:0,190. News One HD
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7631,7632,7630
+#EXTINF:0,191. Channel 4 (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7641,7642,7640
+#EXTINF:0,192. Svarogichi
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7646,7647,7645
+#EXTINF:0,194. TV5 Zaporizhya
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7666,7667,7665
+#EXTINF:0,195. ATR HD
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7681,7682,7680
+#EXTINF:0,196. Oboz TV
+rtsp://sat.ip/?alisatid=52&freq=11747&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,7686,7687,7685
+#EXTINF:0,198. 1+1
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6101,6102,6100
+#EXTINF:0,199. TET
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6111,6112,6110
+#EXTINF:0,200. 2+2
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6121,6122,6120
+#EXTINF:0,201. BISS: 1+1 International
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6126,6127,6125
+#EXTINF:0,203. PlusPlus
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6141,6142,6140
+#EXTINF:0,204. Bigudi TV
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6146,6147,6145
+#EXTINF:0,206. Unian TV
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6161,6162,6160
+#EXTINF:0,207. Avers
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6166,6167,6165
+#EXTINF:0,208. Music Box Ukraina
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6176,6177,6175
+#EXTINF:0,210. PlusPlus
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6141,6142,6188
+#EXTINF:0,212. OTV Ukraine
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6191,6192,6190
+#EXTINF:0,213. Unian TV
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6161,6162,6193
+#EXTINF:0,214. Кус-Кус
+rtsp://sat.ip/?alisatid=52&freq=11766&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7071,7072,6194
+#EXTINF:0,278. LRT Televizija
+rtsp://sat.ip/?alisatid=52&freq=11938&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=27500&fec=56&pids=0,17,18,5341,5342,5340
+#EXTINF:0,321. Visjon Norge
+rtsp://sat.ip/?alisatid=52&freq=11996&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4011,4012,4010
+#EXTINF:0,322. Kanal 10 Sweden
+rtsp://sat.ip/?alisatid=52&freq=11996&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4051,4052,4050
+#EXTINF:0,323. GOD Europe
+rtsp://sat.ip/?alisatid=52&freq=11996&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4061,4062,4060
+#EXTINF:0,324. Russia Today
+rtsp://sat.ip/?alisatid=52&freq=11996&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4081,4082,4080
+#EXTINF:0,325. Vision Sverige
+rtsp://sat.ip/?alisatid=52&freq=11996&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4091,4092,4090
+#EXTINF:0,326. TBN Nordic
+rtsp://sat.ip/?alisatid=52&freq=11996&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4096,4097,4095
+#EXTINF:0,347. New Christian TV
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6506,6507,6505
+#EXTINF:0,348. News One
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6511,6512,6510
+#EXTINF:0,349. Espreso TV
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6521,6522,6520
+#EXTINF:0,350. Centralniy Kanal
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6526,6527,6525
+#EXTINF:0,351. Glas
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6531,65326533,6530
+#EXTINF:0,352. Karavan TV
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6546,6547,6545
+#EXTINF:0,353. Hromadske
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6551,6552,6550
+#EXTINF:0,354. Zik (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6561,6562,6560
+#EXTINF:0,355. RADA
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6571,6572,6570
+#EXTINF:0,356. BISS: Ukraina Telekanal
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6576,6577,6575
+#EXTINF:0,358. Natali
+rtsp://sat.ip/?alisatid=52&freq=12073&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6591,6592,6590
+#EXTINF:0,378. BISS: Ukraina Telekanal
+rtsp://sat.ip/?alisatid=52&freq=12130&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6611,6612,6610
+#EXTINF:0,382. Donbass TV
+rtsp://sat.ip/?alisatid=52&freq=12130&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6651,6652,6650
+#EXTINF:0,384. BISS: 34 Telekanal
+rtsp://sat.ip/?alisatid=52&freq=12130&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6671,6672,6670
+#EXTINF:0,385. BISS: NLO TV
+rtsp://sat.ip/?alisatid=52&freq=12130&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6681,6682,6680
+#EXTINF:0,386. Indigo TV
+rtsp://sat.ip/?alisatid=52&freq=12130&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6691,6692,6690
+#EXTINF:0,390. 1+1
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,1301,1302,240
+#EXTINF:0,394. ICTV
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,1701,1702,304
+#EXTINF:0,396. Zoom (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2101,2102,368
+#EXTINF:0,397. Indigo TV
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2201,2202,384
+#EXTINF:0,398. Telekanal STB
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2301,2302,400
+#EXTINF:0,399. TET
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2401,2402,416
+#EXTINF:0,400. K2
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2501,2502,432
+#EXTINF:0,401. Novy Kanal
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2601,2602,448
+#EXTINF:0,402. M1
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2701,2702,464
+#EXTINF:0,403. Kanal 5 Ukraine
+rtsp://sat.ip/?alisatid=52&freq=12188&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 10&plts=on&sr=30000&fec=34&pids=0,17,18,2801,2802,480
+#EXTINF:0,431. Donbass TV
+rtsp://sat.ip/?alisatid=52&freq=12245&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,181,182,2918
+#EXTINF:0,432. BISS: 34 Telekanal
+rtsp://sat.ip/?alisatid=52&freq=12245&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=34&pids=0,17,18,191,192,2919
+#EXTINF:0,442. Trofey
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7111,7112,7711
+#EXTINF:0,443. BISS: Dacha
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7121,7122,7712
+#EXTINF:0,444. BISS: Epoque
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7131,7132,7713
+#EXTINF:0,445. Terra
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7141,7142,7714
+#EXTINF:0,446. Nauka 2.0
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7151,7152,7715
+#EXTINF:0,447. Fauna
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7161,7162,7716
+#EXTINF:0,449. 36.6
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7191,7192,7719
+#EXTINF:0,450. TV Kiev
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7211,7212,7721
+#EXTINF:0,451. BISS: Ukraina Telekanal
+rtsp://sat.ip/?alisatid=52&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=30000&fec=34&pids=0,17,18,7851,7852,7785
+#EXTINF:0,452. NewsNetwork
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6911,6912,6910
+#EXTINF:0,453. Nadiya
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6916,6917,6915
+#EXTINF:0,454. Sonce Ukraine
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6921,6922,6920
+#EXTINF:0,455. Kanal 5 Ukraine
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6931,6932,6930
+#EXTINF:0,456. KRT
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6941,6942,6940
+#EXTINF:0,457. Vintage
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6946,6947,6945
+#EXTINF:0,458. Priamyi TV
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6951,6952,6950
+#EXTINF:0,459. 112 Ukraine
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6971,6972,6970
+#EXTINF:0,460. Nash TV
+rtsp://sat.ip/?alisatid=52&freq=12284&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,6981,6982,6980
+#EXTINF:0,463. Belsat TV
+rtsp://sat.ip/?alisatid=52&freq=12303&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=25547&fec=78&pids=0,17,18,2601,2602,5291
+#EXTINF:0,477. Mega
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3101,3102,528
+#EXTINF:0,478. Pixel
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3201,3202,544
+#EXTINF:0,479. XSport
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3301,3302,560
+#EXTINF:0,480. NLO TV
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3401,3402,576
+#EXTINF:0,481. 2+2
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3501,3502,592
+#EXTINF:0,482. Zik (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3601,3602,608
+#EXTINF:0,483. Espreso TV
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3701,3702,624
+#EXTINF:0,484. Business TV (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,3801,3802,640
+#EXTINF:0,485. 112 Ukraine HD
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,6101,6102,808
+#EXTINF:0,486. DoTB
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,6501,6502,840
+#EXTINF:0,487. Kanal 5 Ukraine
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,4101,4102,688
+#EXTINF:0,488. Kultura
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,4201,4202,704
+#EXTINF:0,489. RADA
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,4301,4302,720
+#EXTINF:0,490. Ukraine 24
+rtsp://sat.ip/?alisatid=52&freq=12341&pol=h&ro=0.35&msys=dvbs2t2mi, plp 0&mtype=8pskstream 30&plts=on&sr=30000&fec=34&pids=0,17,18,4401,4402,736
+#EXTINF:0,506. TVGE International
+rtsp://sat.ip/?alisatid=52&freq=12379&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,201,202,200
+#EXTINF:0,509. LTV World
+rtsp://sat.ip/?alisatid=52&freq=12379&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,241,242,240
+#EXTINF:0,510. SonLife Broadcasting Network
+rtsp://sat.ip/?alisatid=52&freq=12379&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,251,252,250
+#EXTINF:0,512. TBN Ukraine
+rtsp://sat.ip/?alisatid=52&freq=12379&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,271,272,270
+#EXTINF:0,513. DW-TV (Deutsche Welle)
+rtsp://sat.ip/?alisatid=52&freq=12379&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,291,292,290
+#EXTINF:0,514. Inter
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7311,7312,7310
+#EXTINF:0,515. NTN
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7321,7322,7320
+#EXTINF:0,516. Svarogichi
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7331,7332,7330
+#EXTINF:0,517. Mega
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7341,7342,7340
+#EXTINF:0,518. K1
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7351,7352,7350
+#EXTINF:0,519. K2
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7356,7357,7355
+#EXTINF:0,520. Zoom (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7361,7362,7360
+#EXTINF:0,521. Pixel
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7366,7367,7365
+#EXTINF:0,522. Enter Film
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7371,7372,7370
+#EXTINF:0,523. BISS: Inter +
+rtsp://sat.ip/?alisatid=52&freq=12399&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,7391,7392,7390
+#EXTINF:0,527. Inter
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7101,7102,7910
+#EXTINF:0,528. NTN
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7121,7122,7912
+#EXTINF:0,529. Mega
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7141,7142,7914
+#EXTINF:0,530. K1
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7161,7162,7916
+#EXTINF:0,531. K2
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7181,7182,7918
+#EXTINF:0,532. Zoom (Ukraine)
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7201,7202,7920
+#EXTINF:0,533. Pixel
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7221,7222,7922
+#EXTINF:0,534. Enter Film
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7241,7242,7924
+#EXTINF:0,535. BISS: Inter +
+rtsp://sat.ip/?alisatid=52&freq=12437&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,7261,7262,7926
+#EXTINF:0,536. Mass Channel
+rtsp://sat.ip/?alisatid=52&freq=12580&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=1500&fec=56&pids=0,17,18,5108,5208,5008
+#EXTINF:0,547. Jurnal TV Moldova
+rtsp://sat.ip/?alisatid=52&freq=12734&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=3600&fec=23&pids=0,17,18,340,341,200
+#EXTINF:0,548. RTR Moldova
+rtsp://sat.ip/?alisatid=52&freq=12734&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=3600&fec=23&pids=0,17,18,440,441,300

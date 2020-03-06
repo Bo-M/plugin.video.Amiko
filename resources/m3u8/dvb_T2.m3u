@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,TV BELLE AMIE
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2011&apid=2012&ttxpid=8191&subtpid=8191&pmt=2010&prognumber=2001&pids=2011,2012,8191,8191,2011,2010
+#EXTINF:0,TV Krusevac
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2021&apid=2022&ttxpid=8191&subtpid=8191&pmt=2020&prognumber=2002&pids=2021,2022,8191,8191,2021,2020
+#EXTINF:0,TV Kraljevo
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2031&apid=2032&ttxpid=8191&subtpid=8191&pmt=2030&prognumber=2003&pids=2031,2032,8191,8191,2031,2030
+#EXTINF:0,TV Leskovac
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2081&apid=2082&ttxpid=8191&subtpid=8191&pmt=2080&prognumber=2008&pids=2081,2082,8191,8191,2081,2080
+#EXTINF:0,Zona Plus TEST
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2091&apid=2092&ttxpid=8191&subtpid=8191&pmt=2090&prognumber=2009&pids=2091,2092,8191,8191,2091,2090
+#EXTINF:0,TV Melos
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2111&apid=2112&ttxpid=8191&subtpid=8191&pmt=2110&prognumber=2011&pids=2111,2112,8191,8191,2111,2110
+#EXTINF:0,MOSTNET
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2121&apid=2122&ttxpid=8191&subtpid=8191&pmt=2120&prognumber=2012&pids=2121,2122,8191,8191,2121,2120
+#EXTINF:0,TV Laser
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2131&apid=2132&ttxpid=8191&subtpid=8191&pmt=2130&prognumber=2013&pids=2131,2132,8191,8191,2131,2130
+#EXTINF:0,TV K-1
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2141&apid=2142&ttxpid=8191&subtpid=8191&pmt=2140&prognumber=2014&pids=2141,2142,8191,8191,2141,2140
+#EXTINF:0,NTV
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2151&apid=2152&ttxpid=8191&subtpid=8191&pmt=2150&prognumber=2015&pids=2151,2152,8191,8191,2151,2150
+#EXTINF:0,TV K::CN 1
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2171&apid=2172&ttxpid=8191&subtpid=8191&pmt=2170&prognumber=2017&pids=2171,2172,8191,8191,2171,2170
+#EXTINF:0,KA TV
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2181&apid=2182&ttxpid=8191&subtpid=8191&pmt=2180&prognumber=2018&pids=2181,2182,8191,8191,2181,2180
+#EXTINF:0,TV Trstenik
+rtsp://sat.ip/?alisatid=53&freq=610000&pol=h&mtype=8psk&sr=0&camode=0&vpid=2191&apid=2192&ttxpid=8191&subtpid=8191&pmt=2190&prognumber=2019&pids=2191,2192,8191,8191,2191,2190
+#EXTINF:0,RTS 1
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1011&apid=1012&ttxpid=8191&subtpid=8191&pmt=1010&prognumber=1001&pids=1011,1012,8191,8191,1011,1010
+#EXTINF:0,RTS 2
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1021&apid=1022&ttxpid=8191&subtpid=8191&pmt=1020&prognumber=1002&pids=1021,1022,8191,8191,1021,1020
+#EXTINF:0,PINK
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1031&apid=1032&ttxpid=8191&subtpid=8191&pmt=1030&prognumber=1003&pids=1031,1032,8191,8191,1031,1030
+#EXTINF:0,O2.TV
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1041&apid=1042&ttxpid=8191&subtpid=8191&pmt=1040&prognumber=1004&pids=1041,1042,8191,8191,1041,1040
+#EXTINF:0,PRVA
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1051&apid=1052&ttxpid=8191&subtpid=8191&pmt=1050&prognumber=1005&pids=1051,1052,8191,8191,1051,1050
+#EXTINF:0,HAPPY
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1061&apid=1062&ttxpid=8191&subtpid=8191&pmt=1060&prognumber=1006&pids=1061,1062,8191,8191,1061,1060
+#EXTINF:0,RTS 3
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1071&apid=1072&ttxpid=8191&subtpid=8191&pmt=1070&prognumber=1007&pids=1071,1072,8191,8191,1071,1070
+#EXTINF:0,INFO
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&mtype=8psk&sr=0&camode=0&vpid=1081&apid=1082&ttxpid=8191&subtpid=8191&pmt=1080&prognumber=1008&pids=1081,1082,8191,8191,1081,1080
+#EXTINF:0, kanal
+rtsp://sat.ip/?alisatid=53&freq=522000&pol=h&msys=dvbs2&mtype=8psk&ro=0.35&plts=on&sr=0&fec=0&camode=0&vpid=1011&apid=1012&ttxpid=8191&subtpid=8191&pmt=1010&prognumber=1001&pids=1011,1012,8191,8191,1011,1010

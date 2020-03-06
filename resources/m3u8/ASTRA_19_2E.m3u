@@ -1,0 +1,639 @@
+#EXTM3U
+#EXTINF:0,1. Mainfranken HD
+rtsp://sat.ip/?alisatid=8&freq=10714&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2010,2012,201
+#EXTINF:0,2. Franken Fernsehen
+rtsp://sat.ip/?alisatid=8&freq=10714&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2020,2022,202
+#EXTINF:0,3. TVA-OTV
+rtsp://sat.ip/?alisatid=8&freq=10714&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2030,2032,203
+#EXTINF:0,4. TV Oberfranken
+rtsp://sat.ip/?alisatid=8&freq=10714&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2040,2041,204
+#EXTINF:0,5. Niederbayern TV
+rtsp://sat.ip/?alisatid=8&freq=10714&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2050,2052,205
+#EXTINF:0,6. Oberpfalz TV HD
+rtsp://sat.ip/?alisatid=8&freq=10714&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2060,2062,206
+#EXTINF:0,17. Tagesschau 24
+rtsp://sat.ip/?alisatid=8&freq=10743&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,101,102,100
+#EXTINF:0,18. One
+rtsp://sat.ip/?alisatid=8&freq=10743&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,201,202,200
+#EXTINF:0,19. Arte (Germany)
+rtsp://sat.ip/?alisatid=8&freq=10743&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,401,402,400
+#EXTINF:0,20. Phoenix
+rtsp://sat.ip/?alisatid=8&freq=10743&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,501,502,500
+#EXTINF:0,32. Anixe HD
+rtsp://sat.ip/?alisatid=8&freq=10773&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,255,259,96
+#EXTINF:0,33. QVC HD Germany
+rtsp://sat.ip/?alisatid=8&freq=10773&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,1023,1027,99
+#EXTINF:0,34. HSE24 HD
+rtsp://sat.ip/?alisatid=8&freq=10773&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,1279,1283,100
+#EXTINF:0,37. Alquiler 1
+rtsp://sat.ip/?alisatid=8&freq=10788&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,168,112,1024
+#EXTINF:0,38. Alquiler 2
+rtsp://sat.ip/?alisatid=8&freq=10788&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,170,120,1025
+#EXTINF:0,41. Alquiler XY
+rtsp://sat.ip/?alisatid=8&freq=10788&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,160,80,1031
+#EXTINF:0,51. HSE24 Extra HD
+rtsp://sat.ip/?alisatid=8&freq=10802&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,511,515,97
+#EXTINF:0,52. 1-2-3.tv HD
+rtsp://sat.ip/?alisatid=8&freq=10802&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,767,771,98
+#EXTINF:0,54. QVC 2 HD
+rtsp://sat.ip/?alisatid=8&freq=10802&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,1279,1283,100
+#EXTINF:0,68. Bajo Demanda
+rtsp://sat.ip/?alisatid=8&freq=10847&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,163,400,1035
+#EXTINF:0,80. rbb Brandenburg HD
+rtsp://sat.ip/?alisatid=8&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5311,5312,5300
+#EXTINF:0,81. rbb Berlin HD
+rtsp://sat.ip/?alisatid=8&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5311,5312,5310
+#EXTINF:0,82. MDR Sachsen HD
+rtsp://sat.ip/?alisatid=8&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5331,5332,5320
+#EXTINF:0,83. MDR S-Anhalt HD
+rtsp://sat.ip/?alisatid=8&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5331,5332,5330
+#EXTINF:0,84. MDR Thüringen HD
+rtsp://sat.ip/?alisatid=8&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5331,5332,5340
+#EXTINF:0,85. hr-fernsehen HD
+rtsp://sat.ip/?alisatid=8&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5351,5352,5350
+#EXTINF:0,93. Genius Family
+rtsp://sat.ip/?alisatid=8&freq=10920&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=78&pids=0,17,18,255,256,96
+#EXTINF:0,94. Zee One
+rtsp://sat.ip/?alisatid=8&freq=10920&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=78&pids=0,17,18,511,512,97
+#EXTINF:0,95. Sky Sport News Germany
+rtsp://sat.ip/?alisatid=8&freq=10920&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=78&pids=0,17,18,767,768,98
+#EXTINF:0,96. HGTV
+rtsp://sat.ip/?alisatid=8&freq=10920&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=78&pids=0,17,18,1023,1024,99
+#EXTINF:0,97. MediaShop - Meine Einkaufswelt
+rtsp://sat.ip/?alisatid=8&freq=10920&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=78&pids=0,17,18,1279,1280,100
+#EXTINF:0,106. Zee One HD
+rtsp://sat.ip/?alisatid=8&freq=10964&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,511,515,97
+#EXTINF:0,107. Handystar TV HD
+rtsp://sat.ip/?alisatid=8&freq=10964&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,767,771,98
+#EXTINF:0,109. Channel 21 HD
+rtsp://sat.ip/?alisatid=8&freq=10964&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1279,1283,100
+#EXTINF:0,110. QVC Style HD
+rtsp://sat.ip/?alisatid=8&freq=10964&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1535,1539,101
+#EXTINF:0,123. SES UHD Demo
+rtsp://sat.ip/?alisatid=8&freq=10993&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=56&pids=0,17,18,511,512,97
+#EXTINF:0,124. UHD1 by ASTRA / HD+
+rtsp://sat.ip/?alisatid=8&freq=10993&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=56&pids=0,17,18,101,102,96
+#EXTINF:0,136. Tagesschau 24 HD
+rtsp://sat.ip/?alisatid=8&freq=11052&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5401,5402,5400
+#EXTINF:0,137. One HD
+rtsp://sat.ip/?alisatid=8&freq=11052&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5411,5412,5410
+#EXTINF:0,138. ARD-alpha HD
+rtsp://sat.ip/?alisatid=8&freq=11052&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5421,5422,5420
+#EXTINF:0,139. SR Fernsehen HD
+rtsp://sat.ip/?alisatid=8&freq=11052&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5431,5432,5430
+#EXTINF:0,140. Radio Bremen HD
+rtsp://sat.ip/?alisatid=8&freq=11052&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5441,5442,5440
+#EXTINF:0,141. RT Español
+rtsp://sat.ip/?alisatid=8&freq=11067&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1450,1550,1250
+#EXTINF:0,142. TV Record
+rtsp://sat.ip/?alisatid=8&freq=11067&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,33,32,34
+#EXTINF:0,143. Telesur
+rtsp://sat.ip/?alisatid=8&freq=11067&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2101,2102,35
+#EXTINF:0,144. TBN Espana
+rtsp://sat.ip/?alisatid=8&freq=11067&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,8002,8102,1802
+#EXTINF:0,145. TV Galicia
+rtsp://sat.ip/?alisatid=8&freq=11067&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1701,1702,39
+#EXTINF:0,146. I24 News Français
+rtsp://sat.ip/?alisatid=8&freq=11067&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1081,1082,1824
+#EXTINF:0,152. Multi-X
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,167,108,1024
+#EXTINF:0,153. Multi-X
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,174,136,1039
+#EXTINF:0,154. Alquiler 5
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,160,80,1027
+#EXTINF:0,155. Alquiler 6
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,171,124,1028
+#EXTINF:0,156. Alquiler 3
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,168,112,1029
+#EXTINF:0,157. Alquiler X
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,163,92,1030
+#EXTINF:0,158. Alquiler XX
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,164,96,1031
+#EXTINF:0,159. Alquiler XXHard
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,161,84,1032
+#EXTINF:0,162. Alquiler 4
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,170,120,1025
+#EXTINF:0,164. Multi-X
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,165,100,1037
+#EXTINF:0,165. Multi-X
+rtsp://sat.ip/?alisatid=8&freq=11097&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,176,144,1040
+#EXTINF:0,184. Canal Sur Andalucia
+rtsp://sat.ip/?alisatid=8&freq=11156&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,166,104,1029
+#EXTINF:0,199. CNBC Europe HD
+rtsp://sat.ip/?alisatid=8&freq=11170&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,2047,2051,103
+#EXTINF:0,201. Sky Sport Austria 1 HD
+rtsp://sat.ip/?alisatid=8&freq=11170&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=34&pids=0,17,18,1023,1027,99
+#EXTINF:0,206. TRWAM
+rtsp://sat.ip/?alisatid=8&freq=11185&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,33,3606,8020
+#EXTINF:0,208. BBC World News Europe HD
+rtsp://sat.ip/?alisatid=8&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2091,2092,212
+#EXTINF:0,210. NHK World HD
+rtsp://sat.ip/?alisatid=8&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1760,1720,5071
+#EXTINF:0,211. Al Jazeera English HD
+rtsp://sat.ip/?alisatid=8&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,3101,3102,3100
+#EXTINF:0,212. Mont Blanc Live
+rtsp://sat.ip/?alisatid=8&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,101,201,32
+#EXTINF:0,214. Volksmusik TV
+rtsp://sat.ip/?alisatid=8&freq=11243&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2220,2221,222
+#EXTINF:0,216. Bibel TV HD
+rtsp://sat.ip/?alisatid=8&freq=11243&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2240,2241,224
+#EXTINF:0,217. Schau TV HD
+rtsp://sat.ip/?alisatid=8&freq=11243&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2250,2251,225
+#EXTINF:0,218. StarParadies Österreich
+rtsp://sat.ip/?alisatid=8&freq=11243&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2220,2221,226
+#EXTINF:0,219. Hope Channel HD Germany
+rtsp://sat.ip/?alisatid=8&freq=11243&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2270,2271,227
+#EXTINF:0,221. RTL Plus Austria
+rtsp://sat.ip/?alisatid=8&freq=11243&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2290,2291,229
+#EXTINF:0,231. Rai News 24
+rtsp://sat.ip/?alisatid=8&freq=11288&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,520,690,1107
+#EXTINF:0,232. Deutschland Vozrozhdenie
+rtsp://sat.ip/?alisatid=8&freq=11288&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,7686,7687,7685
+#EXTINF:0,233. QVC UHD Germany
+rtsp://sat.ip/?alisatid=8&freq=11288&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,255,256,96
+#EXTINF:0,234. D7 TV
+rtsp://sat.ip/?alisatid=8&freq=11288&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,4241,4242,4240
+#EXTINF:0,238. Servus TV HD Deutschland
+rtsp://sat.ip/?alisatid=8&freq=11302&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,4920,4921,110
+#EXTINF:0,250. 3sat HD
+rtsp://sat.ip/?alisatid=8&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6510,6520,6500
+#EXTINF:0,251. KiKa HD
+rtsp://sat.ip/?alisatid=8&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6610,6620,6600
+#EXTINF:0,252. ZDFinfo HD
+rtsp://sat.ip/?alisatid=8&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6710,6720,6700
+#EXTINF:0,253. ZDF HD
+rtsp://sat.ip/?alisatid=8&freq=11361&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6110,6120,6100
+#EXTINF:0,254. ZDF_neo HD
+rtsp://sat.ip/?alisatid=8&freq=11361&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6310,6320,6300
+#EXTINF:0,255. Telesur HD
+rtsp://sat.ip/?alisatid=8&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1001,1002,1000
+#EXTINF:0,256. RT HD
+rtsp://sat.ip/?alisatid=8&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1011,10121013,1010
+#EXTINF:0,257. RT Español HD
+rtsp://sat.ip/?alisatid=8&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1021,1022,1020
+#EXTINF:0,258. RT France HD
+rtsp://sat.ip/?alisatid=8&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1031,1032,1030
+#EXTINF:0,259. Extremadura TV
+rtsp://sat.ip/?alisatid=8&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1041,1042,1140
+#EXTINF:0,260. RTL 2 Schweiz
+rtsp://sat.ip/?alisatid=8&freq=11391&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,255,256,96
+#EXTINF:0,262. SES Demo
+rtsp://sat.ip/?alisatid=8&freq=11406&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,255,259,96
+#EXTINF:0,264. Die Neue Zeit TV
+rtsp://sat.ip/?alisatid=8&freq=11420&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3583,3584,109
+#EXTINF:0,277. Das Erste HD
+rtsp://sat.ip/?alisatid=8&freq=11493&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5101,5102,5100
+#EXTINF:0,278. Arte HD
+rtsp://sat.ip/?alisatid=8&freq=11493&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5111,5112,5110
+#EXTINF:0,279. Südwest Fernsehen Baden-Württemberg HD
+rtsp://sat.ip/?alisatid=8&freq=11493&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5121,5122,5120
+#EXTINF:0,280. Sudwest Fernsehen Rheinland-Pfalz HD
+rtsp://sat.ip/?alisatid=8&freq=11493&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5121,5122,5130
+#EXTINF:0,281. Cubavision Internacional
+rtsp://sat.ip/?alisatid=8&freq=11508&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,708,728,758
+#EXTINF:0,282. Al Jazeera Satellite Channel
+rtsp://sat.ip/?alisatid=8&freq=11508&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,709,729,759
+#EXTINF:0,283. Arirang TV
+rtsp://sat.ip/?alisatid=8&freq=11508&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,711,731,761
+#EXTINF:0,284. Russia Today
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,604,624,654
+#EXTINF:0,285. France 24 (en Français)
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,605,625,201
+#EXTINF:0,286. France 24 (in English)
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,606,626,202
+#EXTINF:0,287. France 24 (in Arabic)
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,610,630,660
+#EXTINF:0,288. CGTN Documentary
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,612,632,662
+#EXTINF:0,289. CCTV F
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,613,633,663
+#EXTINF:0,290. CGTN
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,614,634,664
+#EXTINF:0,291. TV5 Monde Europe
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,615,635,665
+#EXTINF:0,292. TRT World HD
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,618,638,668
+#EXTINF:0,293. TV5 Monde Europe
+rtsp://sat.ip/?alisatid=8&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,615,635,675
+#EXTINF:0,294. a.tv
+rtsp://sat.ip/?alisatid=8&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1010,1012,101
+#EXTINF:0,295. münchen.tv HD
+rtsp://sat.ip/?alisatid=8&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1020,1022,102
+#EXTINF:0,296. RFO (Germany)
+rtsp://sat.ip/?alisatid=8&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1030,1032,103
+#EXTINF:0,297. Ulm-Allgäu
+rtsp://sat.ip/?alisatid=8&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1040,1042,104
+#EXTINF:0,298. intv
+rtsp://sat.ip/?alisatid=8&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1050,1052,105
+#EXTINF:0,299. BB-MV-Lokal TV
+rtsp://sat.ip/?alisatid=8&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1070,1072,107
+#EXTINF:0,329. Bayerisches Fernsehen Süd HD
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5201,5202,5200
+#EXTINF:0,330. Bayerisches Fernsehen Nord HD
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5211,5212,5210
+#EXTINF:0,331. NDR Niedersachsen HD 19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5221,5222,5220
+#EXTINF:0,332. NDR Mecklenburg-Vorpommern HD 19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5231,5232,5230
+#EXTINF:0,333. NDR Hamburg HD 19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5241,5242,5240
+#EXTINF:0,334. NDR Schleswig Holstein HD 19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5251,5252,5250
+#EXTINF:0,335. Phoenix HD
+rtsp://sat.ip/?alisatid=8&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5261,5262,5260
+#EXTINF:0,336. CNBC Europe
+rtsp://sat.ip/?alisatid=8&freq=11597&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,307,308,1838
+#EXTINF:0,337. Bloomberg Europe
+rtsp://sat.ip/?alisatid=8&freq=11597&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1360,1320,1090
+#EXTINF:0,338. SonLife Broadcasting Network
+rtsp://sat.ip/?alisatid=8&freq=11597&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1051,1052,1050
+#EXTINF:0,339. Algerie 3
+rtsp://sat.ip/?alisatid=8&freq=11597&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,514,670,256
+#EXTINF:0,340. Canal Algérie
+rtsp://sat.ip/?alisatid=8&freq=11597&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,515,680,257
+#EXTINF:0,341. Yol TV
+rtsp://sat.ip/?alisatid=8&freq=11611&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1021,1022,1020
+#EXTINF:0,342. TBN Russia
+rtsp://sat.ip/?alisatid=8&freq=11611&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2017,3017,1017
+#EXTINF:0,343. Juvelirochka
+rtsp://sat.ip/?alisatid=8&freq=11611&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,200,300,100
+#EXTINF:0,344. TV 8 Russia
+rtsp://sat.ip/?alisatid=8&freq=11611&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,611,631,181
+#EXTINF:0,345. TV Rus
+rtsp://sat.ip/?alisatid=8&freq=11611&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,255,256,49
+#EXTINF:0,346. TVE International
+rtsp://sat.ip/?alisatid=8&freq=11626&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3521,3522,3520
+#EXTINF:0,347. Canal 24 Horas
+rtsp://sat.ip/?alisatid=8&freq=11626&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3569,3570,3568
+#EXTINF:0,348. CNN International Europe
+rtsp://sat.ip/?alisatid=8&freq=11626&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,165,100,3946
+#EXTINF:0,349. DW-TV (Deutsche Welle)
+rtsp://sat.ip/?alisatid=8&freq=11626&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,529,785,273
+#EXTINF:0,350. Al Jazeera English
+rtsp://sat.ip/?alisatid=8&freq=11626&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3505,3625,266
+#EXTINF:0,358. Puls 24 HD  Ab 1.September
+rtsp://sat.ip/?alisatid=8&freq=11670&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1279,1283,100
+#EXTINF:0,359. SAT.1 Gold Österreich
+rtsp://sat.ip/?alisatid=8&freq=11670&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,2815,2816,106
+#EXTINF:0,360. ProSieben MAXX Austria
+rtsp://sat.ip/?alisatid=8&freq=11670&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,3071,3072,107
+#EXTINF:0,361. Kabel 1 Doku Austria
+rtsp://sat.ip/?alisatid=8&freq=11670&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,3327,3328,108
+#EXTINF:0,365. Aragón Sat
+rtsp://sat.ip/?alisatid=8&freq=11685&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,160,80,1026
+#EXTINF:0,386. Sky Sport Austria 1
+rtsp://sat.ip/?alisatid=8&freq=11758&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=10&pids=0,17,18,2047,2048,103
+#EXTINF:0,425. Das Erste
+rtsp://sat.ip/?alisatid=8&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,101,102,100
+#EXTINF:0,426. Bayerisches Fernsehen Süd
+rtsp://sat.ip/?alisatid=8&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,201,202,200
+#EXTINF:0,427. Hessen Fernsehen
+rtsp://sat.ip/?alisatid=8&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,301,302,300
+#EXTINF:0,428. Bayerisches Fernsehen Nord
+rtsp://sat.ip/?alisatid=8&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,501,202,500
+#EXTINF:0,429. WDR Fernsehen Köln  Köln
+rtsp://sat.ip/?alisatid=8&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,601,602,600
+#EXTINF:0,430. Südwest Fernsehen Baden-Würtemberg
+rtsp://sat.ip/?alisatid=8&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,801,802,800
+#EXTINF:0,436. M6 Boutique & Co
+rtsp://sat.ip/?alisatid=8&freq=11856&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,610,621,600
+#EXTINF:0,473. Canal+ Promo
+rtsp://sat.ip/?alisatid=8&freq=11934&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,910,921,900
+#EXTINF:0,478. ZDF
+rtsp://sat.ip/?alisatid=8&freq=11953&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,110,120,100
+#EXTINF:0,479. 3sat
+rtsp://sat.ip/?alisatid=8&freq=11953&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,210,220,200
+#EXTINF:0,480. KIKA - Der KinderKanal
+rtsp://sat.ip/?alisatid=8&freq=11953&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,310,320,300
+#EXTINF:0,481. ZDF Infokanal
+rtsp://sat.ip/?alisatid=8&freq=11953&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,610,620,600
+#EXTINF:0,482. ZDF_neo
+rtsp://sat.ip/?alisatid=8&freq=11953&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,660,670,650
+#EXTINF:0,488. Comedy Central Germany   Nights
+rtsp://sat.ip/?alisatid=8&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4061,4062,416
+#EXTINF:0,489. MTV Germany
+rtsp://sat.ip/?alisatid=8&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4081,4082,418
+#EXTINF:0,490. MTV+ Germany  Nights
+rtsp://sat.ip/?alisatid=8&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4101,4102,420
+#EXTINF:0,491. Nickelodeon Germany
+rtsp://sat.ip/?alisatid=8&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,4101,4102,420
+#EXTINF:0,501. Canal+ HD
+rtsp://sat.ip/?alisatid=8&freq=12012&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,110,121,100
+#EXTINF:0,502. Canal+ Décalé HD
+rtsp://sat.ip/?alisatid=8&freq=12012&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,210,221,200
+#EXTINF:0,504. Canal+ Sport HD
+rtsp://sat.ip/?alisatid=8&freq=12012&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,410,421,400
+#EXTINF:0,513. Sky Select
+rtsp://sat.ip/?alisatid=8&freq=12031&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=10&pids=0,17,18,2559,2560,105
+#EXTINF:0,524. ProSieben Schweiz
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,289,290,32
+#EXTINF:0,525. ProSieben Österreich
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,161,84,1025
+#EXTINF:0,526. Kabel 1 Schweiz
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,162,163,1026
+#EXTINF:0,527. Kabel 1 Österreich
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,166,167,1027
+#EXTINF:0,528. Sat 1 Österreich
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,800,801,1028
+#EXTINF:0,529. Sat 1 Schweiz
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1535,1536,101
+#EXTINF:0,531. Sat 1 Hamburg / Schleswig Holstein
+rtsp://sat.ip/?alisatid=8&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2047,2048,103
+#EXTINF:0,546. RBB Brandenburg
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,501,602,500
+#EXTINF:0,547. RBB Berlin
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,601,602,600
+#EXTINF:0,548. NDR Fernsehen
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2401,2402,2400
+#EXTINF:0,549. NDR Hamburg  19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2501,2502,2500
+#EXTINF:0,550. NDR Niedersachsen  19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2601,2602,2600
+#EXTINF:0,551. NDR Schleswig Holstein  19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2701,2702,2700
+#EXTINF:0,552. MDR Sachsen
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2801,2802,2800
+#EXTINF:0,553. MDR Sachsen-Anhalt
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2901,2902,2900
+#EXTINF:0,554. MDR Thüringen
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3001,3002,3000
+#EXTINF:0,555. Südwest Fernsehen Rheinland-Pfalz
+rtsp://sat.ip/?alisatid=8&freq=12109&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3101,3102,3100
+#EXTINF:0,564. TV5 Monde FBS HD
+rtsp://sat.ip/?alisatid=8&freq=12129&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,1010,1021,1000
+#EXTINF:0,569. N24 Doku Austria
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,255,256,98
+#EXTINF:0,570. Genius Exklusiv TV
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3071,3072,100
+#EXTINF:0,571. Comedy Central Österreich   Nights
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1535,1536,106
+#EXTINF:0,572. Nick Österreich
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1791,1792,107
+#EXTINF:0,573. Deluxe Music
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3327,3328,99
+#EXTINF:0,574. TLC Austria
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,511,512,105
+#EXTINF:0,575. DMAX Austria
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3583,3584,115
+#EXTINF:0,576. Immer etwas Neues TV
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2303,2304,108
+#EXTINF:0,577. Pearl.tv
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2047,2048,96
+#EXTINF:0,578. Channel 21
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1023,1024,113
+#EXTINF:0,579. MediaShop - Meine Einkaufswelt
+rtsp://sat.ip/?alisatid=8&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1279,1280,114
+#EXTINF:0,587. Barker Collectivités
+rtsp://sat.ip/?alisatid=8&freq=12168&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,1110,1121,1100
+#EXTINF:0,591. RTL Television
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,163,104,44
+#EXTINF:0,592. RTL Nordrhein Westfalen  18h-18h30 CET 18h-18h30 CET
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,190,191,54
+#EXTINF:0,593. RTL Bremen & Land Niedersachsen   18h-18h30 CET
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,180,181,55
+#EXTINF:0,594. RTL 2
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,166,128,46
+#EXTINF:0,595. TOGGO plus
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,301,303,58
+#EXTINF:0,596. Super RTL
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,165,120,45
+#EXTINF:0,597. VOX
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,167,136,47
+#EXTINF:0,598. RTL Nitro
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,173,146,53
+#EXTINF:0,599. RTL+ Germany
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,168,137,41
+#EXTINF:0,600. n-tv
+rtsp://sat.ip/?alisatid=8&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,169,73,48
+#EXTINF:0,608. LCI HD
+rtsp://sat.ip/?alisatid=8&freq=12207&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,910,921,900
+#EXTINF:0,613. CNews HD
+rtsp://sat.ip/?alisatid=8&freq=12207&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,1410,1421,1400
+#EXTINF:0,614. LCP HD
+rtsp://sat.ip/?alisatid=8&freq=12207&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,1510,1521,1500
+#EXTINF:0,615. RTL Österreich
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,201,202,200
+#EXTINF:0,616. VOX Österreich
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,301,302,300
+#EXTINF:0,617. RTL 2 Österreich
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,401,402,400
+#EXTINF:0,618. Super RTL Österreich
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,501,502,500
+#EXTINF:0,619. VOXup
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,601,602,600
+#EXTINF:0,620. Eurosport Germany
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,101,103,280
+#EXTINF:0,621. HSE24 Extra
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,512,660,259
+#EXTINF:0,622. Euronews French
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2432,2435,260
+#EXTINF:0,623. Euronews German
+rtsp://sat.ip/?alisatid=8&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2440,2445,270
+#EXTINF:0,632. Seasons HD
+rtsp://sat.ip/?alisatid=8&freq=12246&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,1010,1021,1000
+#EXTINF:0,637. SR Südwest Fernsehen
+rtsp://sat.ip/?alisatid=8&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1301,1302,1300
+#EXTINF:0,638. ARD Alpha
+rtsp://sat.ip/?alisatid=8&freq=12265&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1401,1402,1400
+#EXTINF:0,652. Sky Sport News HD Germany
+rtsp://sat.ip/?alisatid=8&freq=12304&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=on&sr=27500&fec=10&pids=0,17,18,1023,1027,99
+#EXTINF:0,658. Canal+ UHD
+rtsp://sat.ip/?alisatid=8&freq=12324&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=29700&fec=23&pids=0,17,18,310,321,300
+#EXTINF:0,661. QVC 2 UHD Germany
+rtsp://sat.ip/?alisatid=8&freq=12343&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=30000&fec=23&pids=0,17,18,2815,2816,106
+#EXTINF:0,662. Radio FG
+rtsp://sat.ip/?alisatid=8&freq=12363&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,,1967,1293
+#EXTINF:0,687. WDR Studio Bielefeld   19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,301,302,300
+#EXTINF:0,688. WDR Studio Dortmund   19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,401,402,400
+#EXTINF:0,689. WDR Studio Düsseldorf   19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,501,502,500
+#EXTINF:0,690. WDR Studio Essen   19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,601,602,600
+#EXTINF:0,691. WDR Studio Münster   19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,701,702,700
+#EXTINF:0,692. WDR Studio Siegen   19h30-20h CET
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,801,802,800
+#EXTINF:0,693. WDR HD Köln
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5501,5502,5500
+#EXTINF:0,694. WDR HD Bielefeld
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5511,5512,5510
+#EXTINF:0,695. WDR HD Dortmund
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5521,5522,5520
+#EXTINF:0,696. WDR HD Düsseldorf
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5531,5532,5530
+#EXTINF:0,697. WDR HD Essen
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5541,5542,5540
+#EXTINF:0,698. WDR HD Münster
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5551,5552,5550
+#EXTINF:0,699. WDR HD Siegen
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,5561,5562,5560
+#EXTINF:0,700. Radio Bremen TV
+rtsp://sat.ip/?alisatid=8&freq=12421&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1201,1202,1200
+#EXTINF:0,715. N24 Doku
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,511,512,97
+#EXTINF:0,716. EWTN Europe
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1023,1024,100
+#EXTINF:0,717. QVC Style Germany
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1791,1792,102
+#EXTINF:0,718. Nicer Dicer TV
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2303,2304,104
+#EXTINF:0,719. Handystar TV
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3071,3072,108
+#EXTINF:0,720. 1-2-3.tv
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2815,2816,105
+#EXTINF:0,721. Anixe TV
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3311,3312,107
+#EXTINF:0,722. TLC Germany
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1535,1536,103
+#EXTINF:0,723. Sixx
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,767,768,99
+#EXTINF:0,724. Disney Channel Germany
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2047,2048,115
+#EXTINF:0,725. QVC Germany
+rtsp://sat.ip/?alisatid=8&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,255,256,96
+#EXTINF:0,726. Sonnenklar TV
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2303,2304,97
+#EXTINF:0,727. Home Shopping Europe Deutschland
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1279,1280,104
+#EXTINF:0,728. Handystar TV 2
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1791,1792,106
+#EXTINF:0,729. Regio TV
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2047,2048,107
+#EXTINF:0,730. Tele 5
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1535,1536,99
+#EXTINF:0,731. DMAX
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3327,3328,108
+#EXTINF:0,732. Baden TV
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2815,2816,109
+#EXTINF:0,733. HSE24 Trend
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,3071,3072,110
+#EXTINF:0,734. Astro TV
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,2559,2560,98
+#EXTINF:0,735. Equi8
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,767,768,102
+#EXTINF:0,736. MediaShop - Meine Einkaufswelt
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,255,256,100
+#EXTINF:0,737. MeinTVshop
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,511,512,101
+#EXTINF:0,738. Sport 1 Germany
+rtsp://sat.ip/?alisatid=8&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=27500&fec=34&pids=0,17,18,1023,1024,103
+#EXTINF:0,749. Sat 1
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,255,256,96
+#EXTINF:0,750. ProSieben
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,511,512,97
+#EXTINF:0,751. Kabel 1
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,767,768,98
+#EXTINF:0,752. Welt
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1023,1024,99
+#EXTINF:0,753. SAT 1 Gold
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1279,1280,100
+#EXTINF:0,754. ProSieben MAXX
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1535,1536,101
+#EXTINF:0,755. Kabel 1 Doku
+rtsp://sat.ip/?alisatid=8&freq=12544&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,2559,2560,105
+#EXTINF:0,756. QVC 2
+rtsp://sat.ip/?alisatid=8&freq=12551&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,168,144,1060
+#EXTINF:0,757. QVC Germany
+rtsp://sat.ip/?alisatid=8&freq=12551&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,165,166,1030
+#EXTINF:0,758. Bibel TV
+rtsp://sat.ip/?alisatid=8&freq=12551&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,33,34,32
+#EXTINF:0,761. Sonnenklar.TV HD
+rtsp://sat.ip/?alisatid=8&freq=12574&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,255,259,96
+#EXTINF:0,764. Juwelo HD
+rtsp://sat.ip/?alisatid=8&freq=12574&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1023,1024,99
+#EXTINF:0,765. Pearl.tv HD
+rtsp://sat.ip/?alisatid=8&freq=12574&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,1279,1280,100
+#EXTINF:0,768. Sky News International
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1290,2290,7290
+#EXTINF:0,769. WDR Studio Aachen   Montag bis Samstag 19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3401,3402,3400
+#EXTINF:0,770. WDR Studio Wuppertal   Montag bis Samstag 19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3501,3502,3500
+#EXTINF:0,771. WDR Studio Bonn   Montag bis Samstag 19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3601,3602,3600
+#EXTINF:0,772. WDR Studio Duisburg   Montag bis Samstag 19h30-20h
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3701,3702,3700
+#EXTINF:0,773. WDR HD Aachen
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,5601,5602,5600
+#EXTINF:0,774. WDR HD Wuppertal
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,5601,5602,5610
+#EXTINF:0,775. WDR HD Bonn
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,5601,5602,5620
+#EXTINF:0,776. WDR HD Duisburg
+rtsp://sat.ip/?alisatid=8&freq=12603&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,5601,5602,5630
+#EXTINF:0,777. Health.tv
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,200,300,100
+#EXTINF:0,778. K-TV Fernsehen
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,202,302,102
+#EXTINF:0,779. Deutsches Musik Fernsehen
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,53,54,105
+#EXTINF:0,780. GayBoys Live
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,212,312,112
+#EXTINF:0,781. Rheinmain TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,208,308,108
+#EXTINF:0,782. Deutsche Girls 2
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,215,315,115
+#EXTINF:0,783. Juwelo TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1041,1042,116
+#EXTINF:0,784. Dreamgirls.TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,230,330,118
+#EXTINF:0,785. Erotik Sat TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,229,329,119
+#EXTINF:0,786. ACHTUNG Erotik.TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,228,328,120
+#EXTINF:0,787. Männersache
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,222,322,122
+#EXTINF:0,788. Date Line TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,223,323,123
+#EXTINF:0,789. Fotohandy.TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,224,324,124
+#EXTINF:0,790. Mobile Sex
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,225,325,125
+#EXTINF:0,791. Sex Kontakte
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,226,326,126
+#EXTINF:0,792. Eros TV (Gernamy)
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,227,327,127
+#EXTINF:0,793. Achtung Sexy TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,228,328,128
+#EXTINF:0,794. Traumfrauen TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,229,329,129
+#EXTINF:0,795. Heiss und Sexy TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,230,330,130
+#EXTINF:0,796. Volksmusik TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,233,333,133
+#EXTINF:0,797. Babestation24 (Germany)
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,235,335,135
+#EXTINF:0,798. freenet Shopping
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,236,336,136
+#EXTINF:0,799. Erotika TV
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,239,339,139
+#EXTINF:0,800. BunnyClub 24
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,240,340,140
+#EXTINF:0,801. Clipmobile
+rtsp://sat.ip/?alisatid=8&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,241,341,141
+#EXTINF:0,803. RTL Nitro Austria
+rtsp://sat.ip/?alisatid=8&freq=12662&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1020,1021,1102
+#EXTINF:0,804. Welt der Wunder
+rtsp://sat.ip/?alisatid=8&freq=12662&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1030,1031,1103
+#EXTINF:0,805. LT1
+rtsp://sat.ip/?alisatid=8&freq=12662&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1040,1041,1104
+#EXTINF:0,806. Sixx Austria
+rtsp://sat.ip/?alisatid=8&freq=12662&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1060,1061,1106
+#EXTINF:0,807. Visit-X TV
+rtsp://sat.ip/?alisatid=8&freq=12662&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1070,1071,1107
+#EXTINF:0,808. Servus TV Deutschland
+rtsp://sat.ip/?alisatid=8&freq=12662&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,1110,1111,1210
+#EXTINF:0,823. Hitradio OE3
+rtsp://sat.ip/?alisatid=8&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,130,131,1003
+#EXTINF:0,824. ORF 2 Europe
+rtsp://sat.ip/?alisatid=8&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,170,171,1004
+#EXTINF:0,825. Mei Musi TV
+rtsp://sat.ip/?alisatid=8&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,150,151,1005
+#EXTINF:0,826. Folx TV
+rtsp://sat.ip/?alisatid=8&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,180,181,1008
+#EXTINF:0,827. RIC
+rtsp://sat.ip/?alisatid=8&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,190,191,1009
+#EXTINF:0,828. n-tv Austria
+rtsp://sat.ip/?alisatid=8&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,3020,3021,1021
